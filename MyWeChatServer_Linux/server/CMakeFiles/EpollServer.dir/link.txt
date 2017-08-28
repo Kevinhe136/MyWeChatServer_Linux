@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -Wall -g -ggdb  -rdynamic CMakeFiles/EpollServer.dir/MyEpollPort.cpp.o CMakeFiles/EpollServer.dir/main.cpp.o  -o EpollServer 

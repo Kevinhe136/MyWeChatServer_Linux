@@ -1,0 +1,3 @@
+/home/kevin/MyProgram/MyWeChatServer_Linux/server/CMakeFiles/rebuild_cache.dir
+/home/kevin/MyProgram/MyWeChatServer_Linux/server/CMakeFiles/edit_cache.dir
+/home/kevin/MyProgram/MyWeChatServer_Linux/server/CMakeFiles/EpollServer.dir

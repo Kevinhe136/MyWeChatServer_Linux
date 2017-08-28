@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kevin/MyProgram/MyWeChatServer_Linux/server/MyEpollPort.cpp
+MyEpollPort.h
+/home/kevin/MyProgram/MyWeChatServer_Linux/server/MyEpollPort.h
+
+/home/kevin/MyProgram/MyWeChatServer_Linux/server/MyEpollPort.h
+sys/socket.h
+-
+sys/epoll.h
+-
+iostream
+-
+vector
+-
+string
+-
+errno.h
+-
+sys/types.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+stdio.h
+-
+string.h
+-
+fcntl.h
+-
+unistd.h
+-
+
+/home/kevin/MyProgram/MyWeChatServer_Linux/server/main.cpp
+MyEpollPort.h
+/home/kevin/MyProgram/MyWeChatServer_Linux/server/MyEpollPort.h
+

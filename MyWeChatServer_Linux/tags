@@ -1,0 +1,1561 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	404;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	407;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	410;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	414;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	416;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	418;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	422;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	425;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	428;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	433;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	436;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	439;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	443;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	395;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	398;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	401;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	405;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	407;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	409;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	413;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	416;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	419;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	424;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	427;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	430;"	d	file:
+ARCHITECTURE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	434;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	404;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	407;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	410;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	414;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	416;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	418;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	422;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	425;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	428;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	433;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	436;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	439;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	443;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	395;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	398;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	401;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	405;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	407;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	409;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	413;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	416;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	419;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	424;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	427;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	430;"	d	file:
+ARCHITECTURE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	434;"	d	file:
+Accept	sourcefiles/tinyxml.cpp	/^bool TiXmlComment::Accept( TiXmlVisitor* visitor ) const$/;"	f	class:TiXmlComment
+Accept	sourcefiles/tinyxml.cpp	/^bool TiXmlDeclaration::Accept( TiXmlVisitor* visitor ) const$/;"	f	class:TiXmlDeclaration
+Accept	sourcefiles/tinyxml.cpp	/^bool TiXmlDocument::Accept( TiXmlVisitor* visitor ) const$/;"	f	class:TiXmlDocument
+Accept	sourcefiles/tinyxml.cpp	/^bool TiXmlElement::Accept( TiXmlVisitor* visitor ) const$/;"	f	class:TiXmlElement
+Accept	sourcefiles/tinyxml.cpp	/^bool TiXmlText::Accept( TiXmlVisitor* visitor ) const$/;"	f	class:TiXmlText
+Accept	sourcefiles/tinyxml.cpp	/^bool TiXmlUnknown::Accept( TiXmlVisitor* visitor ) const$/;"	f	class:TiXmlUnknown
+Account	headfiles/accountDatabase.h	/^	unordered_map<string, string> Account;$/;"	m	class:accountDatabase
+Account	headfiles/chatServer.h	/^	accountDatabase Account;$/;"	m	class:chatServer
+Account	headfiles/fileServer.h	/^	accountDatabase Account;$/;"	m	class:fileServer
+Account	headfiles/friendServer.h	/^	accountDatabase Account;$/;"	m	class:friendsServer
+Account	headfiles/logInServer.h	/^	accountDatabase Account;$/;"	m	class:logInServer
+Account	headfiles/registerServer.h	/^	accountDatabase Account;$/;"	m	class:registerServer
+AccountData	headfiles/accountDatabase.h	/^	MYSQL AccountData;$/;"	m	class:accountDatabase
+AccountData	headfiles/chatServer.h	/^	unordered_map<string, string> *AccountData;$/;"	m	class:chatServer
+AccountData	headfiles/fileServer.h	/^	unordered_map<string,string> *AccountData;$/;"	m	class:fileServer
+AccountData	headfiles/friendServer.h	/^	unordered_map<string, string> *AccountData;$/;"	m	class:friendsServer
+AccountData	headfiles/logInServer.h	/^	unordered_map<string, string> *AccountData;$/;"	m	class:logInServer
+AccountData	headfiles/registerServer.h	/^	unordered_map<string, string> *AccountData;$/;"	m	class:registerServer
+AccountData	headfiles/serverHandler.h	/^	unordered_map<string, string> *AccountData;$/;"	m	class:serverHandler
+Add	sourcefiles/tinyxml.cpp	/^void TiXmlAttributeSet::Add( TiXmlAttribute* addMe )$/;"	f	class:TiXmlAttributeSet
+Attribute	sourcefiles/tinyxml.cpp	/^const char* TiXmlElement::Attribute( const char* name ) const$/;"	f	class:TiXmlElement
+Attribute	sourcefiles/tinyxml.cpp	/^const char* TiXmlElement::Attribute( const char* name, double* d ) const$/;"	f	class:TiXmlElement
+Attribute	sourcefiles/tinyxml.cpp	/^const char* TiXmlElement::Attribute( const char* name, int* i ) const$/;"	f	class:TiXmlElement
+Attribute	sourcefiles/tinyxml.cpp	/^const std::string* TiXmlElement::Attribute( const std::string& name ) const$/;"	f	class:TiXmlElement
+Attribute	sourcefiles/tinyxml.cpp	/^const std::string* TiXmlElement::Attribute( const std::string& name, double* d ) const$/;"	f	class:TiXmlElement
+Attribute	sourcefiles/tinyxml.cpp	/^const std::string* TiXmlElement::Attribute( const std::string& name, int* i ) const$/;"	f	class:TiXmlElement
+Avatar	headfiles/contacts.h	/^	string Avatar;$/;"	m	class:friendData
+BUFF_SIZE	headfiles/MyEpollPort.h	19;"	d
+BUFF_SIZE	server/MyEpollPort.h	19;"	d
+Blank	sourcefiles/tinyxmlparser.cpp	/^bool TiXmlText::Blank() const$/;"	f	class:TiXmlText
+BusyThreads	headfiles/myThreadPool.h	/^	list<thread> BusyThreads;$/;"	m	class:MyThreadPool
+CDATA	headfiles/tinyxml.h	/^	bool CDATA() const				{ return cdata; }$/;"	f	class:TiXmlText
+CMAKE_BINARY_DIR	server/Makefile	/^CMAKE_BINARY_DIR = \/home\/kevin\/MyProgram\/MyWeChatServer_Linux\/server$/;"	m
+CMAKE_BINARY_DIR	sourcefiles/Makefile	/^CMAKE_BINARY_DIR = \/home\/kevin\/MyProgram\/MyWeChatServer_Linux\/sourcefiles$/;"	m
+CMAKE_COMMAND	server/Makefile	/^CMAKE_COMMAND = \/usr\/local\/bin\/cmake$/;"	m
+CMAKE_COMMAND	sourcefiles/Makefile	/^CMAKE_COMMAND = \/usr\/local\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	server/Makefile	/^CMAKE_SOURCE_DIR = \/home\/kevin\/MyProgram\/MyWeChatServer_Linux\/server$/;"	m
+CMAKE_SOURCE_DIR	sourcefiles/Makefile	/^CMAKE_SOURCE_DIR = \/home\/kevin\/MyProgram\/MyWeChatServer_Linux\/sourcefiles$/;"	m
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	101;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	108;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	115;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	129;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	142;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	176;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	190;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	200;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	218;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	227;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	230;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	245;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	252;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	270;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	273;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	276;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	42;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	50;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	56;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	62;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	71;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	94;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	198;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	225;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	243;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	261;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	264;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	267;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	50;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	62;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	101;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	108;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	115;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	129;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	142;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	176;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	190;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	200;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	218;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	227;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	230;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	245;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	252;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	270;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	273;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	276;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	42;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	50;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	56;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	62;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	71;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	94;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	198;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	225;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	243;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	261;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	264;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	267;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	50;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	62;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	103;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	117;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	124;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	130;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	138;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	144;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	165;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	180;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	191;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	221;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	233;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	238;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	247;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	24;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	255;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	260;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	43;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	51;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	64;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	73;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	83;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	88;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	96;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	186;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	188;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	200;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	219;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	231;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	236;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	246;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	251;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	96;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	103;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	117;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	124;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	130;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	138;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	144;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	165;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	180;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	191;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	221;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	233;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	238;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	247;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	24;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	255;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	260;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	43;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	51;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	64;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	73;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	83;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	88;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	96;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	186;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	188;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	200;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	219;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	231;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	236;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	246;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	251;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	96;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	111;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	118;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	139;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	145;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	166;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	181;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	193;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	203;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	222;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	234;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	239;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	248;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	256;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	261;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	44;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	59;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	65;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	74;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	84;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	97;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	145;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	191;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	220;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	237;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	247;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	252;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	file:
+COMPILER_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	111;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	118;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	139;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	145;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	166;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	181;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	193;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	203;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	222;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	234;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	239;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	248;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	256;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	261;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	44;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	59;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	65;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	74;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	84;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	97;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	145;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	191;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	220;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	237;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	247;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	252;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	file:
+COMPILER_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	105;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	112;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	126;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	133;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	207;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	210;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	223;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	235;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	240;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	249;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	257;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	262;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	27;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	29;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	53;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	67;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	76;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	85;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	90;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	176;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	205;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	208;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	221;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	233;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	238;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	248;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	253;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	105;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	112;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	126;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	133;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	207;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	210;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	223;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	235;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	240;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	249;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	257;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	262;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	27;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	29;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	53;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	67;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	76;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	85;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	90;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	176;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	205;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	208;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	221;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	233;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	238;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	248;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	253;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_TWEAK	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+COMPILER_VERSION_TWEAK	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	214;"	d	file:
+COMPILER_VERSION_TWEAK	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	33;"	d	file:
+COMPILER_VERSION_TWEAK	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_TWEAK	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	212;"	d	file:
+COMPILER_VERSION_TWEAK	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+COMPILER_VERSION_TWEAK	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+COMPILER_VERSION_TWEAK	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	214;"	d	file:
+COMPILER_VERSION_TWEAK	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	33;"	d	file:
+COMPILER_VERSION_TWEAK	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_TWEAK	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	212;"	d	file:
+COMPILER_VERSION_TWEAK	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+CStr	headfiles/tinyxml.h	/^	const char* CStr()								{ return buffer.c_str(); }$/;"	f	class:TiXmlPrinter
+C_DIALECT	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	516;"	d	file:
+C_DIALECT	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	518;"	d	file:
+C_DIALECT	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	521;"	d	file:
+C_DIALECT	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	523;"	d	file:
+C_DIALECT	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	525;"	d	file:
+C_DIALECT	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	516;"	d	file:
+C_DIALECT	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	518;"	d	file:
+C_DIALECT	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	521;"	d	file:
+C_DIALECT	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	523;"	d	file:
+C_DIALECT	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	525;"	d	file:
+Chat	headfiles/message.h	/^		Chat = 0x02,$/;"	e	enum:Message::MessageType
+Child	headfiles/tinyxml.h	/^	TiXmlHandle Child( const std::string& _value, int index ) const			{ return Child( _value.c_str(), index ); }$/;"	f	class:TiXmlHandle
+Child	sourcefiles/tinyxml.cpp	/^TiXmlHandle TiXmlHandle::Child( const char* value, int count ) const$/;"	f	class:TiXmlHandle
+Child	sourcefiles/tinyxml.cpp	/^TiXmlHandle TiXmlHandle::Child( int count ) const$/;"	f	class:TiXmlHandle
+ChildElement	headfiles/tinyxml.h	/^	TiXmlHandle ChildElement( const std::string& _value, int index ) const	{ return ChildElement( _value.c_str(), index ); }$/;"	f	class:TiXmlHandle
+ChildElement	sourcefiles/tinyxml.cpp	/^TiXmlHandle TiXmlHandle::ChildElement( const char* value, int count ) const$/;"	f	class:TiXmlHandle
+ChildElement	sourcefiles/tinyxml.cpp	/^TiXmlHandle TiXmlHandle::ChildElement( int count ) const$/;"	f	class:TiXmlHandle
+Clear	headfiles/tinyxml.h	/^	void Clear()		{ row = col = -1; }$/;"	f	struct:TiXmlCursor
+Clear	sourcefiles/tinyxml.cpp	/^void TiXmlNode::Clear()$/;"	f	class:TiXmlNode
+ClearError	headfiles/tinyxml.h	/^	void ClearError()						{	error = false; $/;"	f	class:TiXmlDocument
+ClearThis	sourcefiles/tinyxml.cpp	/^void TiXmlElement::ClearThis()$/;"	f	class:TiXmlElement
+ClientAddr	ClientTest.cpp	/^	sockaddr_in ClientAddr;$/;"	m	class:clientTest	file:
+ClientFd	ClientTest.cpp	/^	int ClientFd;$/;"	m	class:clientTest	file:
+ClientList	headfiles/MyEpollPort.h	/^	unordered_map<string,int> *ClientList;$/;"	m	class:myEpollServer
+ClientList	headfiles/chatServer.h	/^	unordered_map<string, SOCKET> *ClientList;$/;"	m	class:chatServer
+ClientList	headfiles/fileServer.h	/^	unordered_map<string,SOCKET> *ClientList;$/;"	m	class:fileServer
+ClientList	headfiles/logInServer.h	/^	unordered_map<string, SOCKET> *ClientList;$/;"	m	class:logInServer
+ClientList	server/MyEpollPort.h	/^	unordered_map<string,int> *ClientList;$/;"	m	class:myEpollServer
+Clone	sourcefiles/tinyxml.cpp	/^TiXmlNode* TiXmlComment::Clone() const$/;"	f	class:TiXmlComment
+Clone	sourcefiles/tinyxml.cpp	/^TiXmlNode* TiXmlDeclaration::Clone() const$/;"	f	class:TiXmlDeclaration
+Clone	sourcefiles/tinyxml.cpp	/^TiXmlNode* TiXmlDocument::Clone() const$/;"	f	class:TiXmlDocument
+Clone	sourcefiles/tinyxml.cpp	/^TiXmlNode* TiXmlElement::Clone() const$/;"	f	class:TiXmlElement
+Clone	sourcefiles/tinyxml.cpp	/^TiXmlNode* TiXmlText::Clone() const$/;"	f	class:TiXmlText
+Clone	sourcefiles/tinyxml.cpp	/^TiXmlNode* TiXmlUnknown::Clone() const$/;"	f	class:TiXmlUnknown
+Column	headfiles/tinyxml.h	/^	int Column() const		{ return location.col + 1; }	\/\/\/< See Row()$/;"	f	class:TiXmlBase
+Contacts	headfiles/contacts.h	/^	Contacts() {}$/;"	f	class:Contacts
+Contacts	headfiles/contacts.h	/^class Contacts$/;"	c
+Contacts	sourcefiles/contacts.cpp	/^Contacts::Contacts(string username, string password):UserName(username),PassWord(password)$/;"	f	class:Contacts
+ConvertUTF32ToUTF8	sourcefiles/tinyxmlparser.cpp	/^void TiXmlBase::ConvertUTF32ToUTF8( unsigned long input, char* output, int* length )$/;"	f	class:TiXmlBase
+CopyTo	sourcefiles/tinyxml.cpp	/^void TiXmlComment::CopyTo( TiXmlComment* target ) const$/;"	f	class:TiXmlComment
+CopyTo	sourcefiles/tinyxml.cpp	/^void TiXmlDeclaration::CopyTo( TiXmlDeclaration* target ) const$/;"	f	class:TiXmlDeclaration
+CopyTo	sourcefiles/tinyxml.cpp	/^void TiXmlDocument::CopyTo( TiXmlDocument* target ) const$/;"	f	class:TiXmlDocument
+CopyTo	sourcefiles/tinyxml.cpp	/^void TiXmlElement::CopyTo( TiXmlElement* target ) const$/;"	f	class:TiXmlElement
+CopyTo	sourcefiles/tinyxml.cpp	/^void TiXmlNode::CopyTo( TiXmlNode* target ) const$/;"	f	class:TiXmlNode
+CopyTo	sourcefiles/tinyxml.cpp	/^void TiXmlText::CopyTo( TiXmlText* target ) const$/;"	f	class:TiXmlText
+CopyTo	sourcefiles/tinyxml.cpp	/^void TiXmlUnknown::CopyTo( TiXmlUnknown* target ) const$/;"	f	class:TiXmlUnknown
+Cursor	sourcefiles/tinyxmlparser.cpp	/^	const TiXmlCursor& Cursor() const	{ return cursor; }$/;"	f	class:TiXmlParsingData
+DEBUG	headfiles/tinyxml.h	43;"	d
+DEC	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	447;"	d	file:
+DEC	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	438;"	d	file:
+DEC	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	447;"	d	file:
+DEC	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	438;"	d	file:
+DoIndent	headfiles/tinyxml.h	/^	void DoIndent()	{$/;"	f	class:TiXmlPrinter
+DoLineBreak	headfiles/tinyxml.h	/^	void DoLineBreak() {$/;"	f	class:TiXmlPrinter
+DoubleValue	sourcefiles/tinyxml.cpp	/^double  TiXmlAttribute::DoubleValue() const$/;"	f	class:TiXmlAttribute
+EQUALS	server/Makefile	/^EQUALS = =$/;"	m
+EQUALS	sourcefiles/Makefile	/^EQUALS = =$/;"	m
+Element	headfiles/tinyxml.h	/^	TiXmlElement* Element() const	{ return ToElement(); }$/;"	f	class:TiXmlHandle
+EncodeString	sourcefiles/tinyxml.cpp	/^void TiXmlBase::EncodeString( const TIXML_STRING& str, TIXML_STRING* outString )$/;"	f	class:TiXmlBase
+Encoding	headfiles/tinyxml.h	/^	const char *Encoding() const		{ return encoding.c_str (); }$/;"	f	class:TiXmlDeclaration
+Entity	headfiles/tinyxml.h	/^	struct Entity$/;"	s	class:TiXmlBase
+Error	headfiles/message.h	/^		Error = 0x10$/;"	e	enum:Message::MessageType
+Error	headfiles/tinyxml.h	/^	bool Error() const						{ return error; }$/;"	f	class:TiXmlDocument
+ErrorCol	headfiles/tinyxml.h	/^	int ErrorCol() const	{ return errorLocation.col+1; }	\/\/\/< The column where the error occured. See ErrorRow()$/;"	f	class:TiXmlDocument
+ErrorDesc	headfiles/tinyxml.h	/^	const char * ErrorDesc() const	{ return errorDesc.c_str (); }$/;"	f	class:TiXmlDocument
+ErrorId	headfiles/tinyxml.h	/^	int ErrorId()	const				{ return errorId; }$/;"	f	class:TiXmlDocument
+ErrorRow	headfiles/tinyxml.h	/^	int ErrorRow() const	{ return errorLocation.row+1; }$/;"	f	class:TiXmlDocument
+FDoc	headfiles/xmlHandler.h	/^	TiXmlDocument FDoc;$/;"	m	class:xmlHandler
+FileName	headfiles/fileServer.h	/^	string FileName;$/;"	m	class:fileServer
+Find	sourcefiles/tinyxml.cpp	/^TiXmlAttribute* TiXmlAttributeSet::Find( const char* name ) const$/;"	f	class:TiXmlAttributeSet
+Find	sourcefiles/tinyxml.cpp	/^TiXmlAttribute* TiXmlAttributeSet::Find( const std::string& name ) const$/;"	f	class:TiXmlAttributeSet
+FindOrCreate	sourcefiles/tinyxml.cpp	/^TiXmlAttribute* TiXmlAttributeSet::FindOrCreate( const char* _name )$/;"	f	class:TiXmlAttributeSet
+FindOrCreate	sourcefiles/tinyxml.cpp	/^TiXmlAttribute* TiXmlAttributeSet::FindOrCreate( const std::string& _name )$/;"	f	class:TiXmlAttributeSet
+First	headfiles/tinyxml.h	/^	TiXmlAttribute* First()					{ return ( sentinel.next == &sentinel ) ? 0 : sentinel.next; }$/;"	f	class:TiXmlAttributeSet
+First	headfiles/tinyxml.h	/^	const TiXmlAttribute* First()	const	{ return ( sentinel.next == &sentinel ) ? 0 : sentinel.next; }$/;"	f	class:TiXmlAttributeSet
+FirstAttribute	headfiles/tinyxml.h	/^	TiXmlAttribute* FirstAttribute() 				{ return attributeSet.First(); }$/;"	f	class:TiXmlElement
+FirstAttribute	headfiles/tinyxml.h	/^	const TiXmlAttribute* FirstAttribute() const	{ return attributeSet.First(); }		\/\/\/< Access the first attribute in this element.$/;"	f	class:TiXmlElement
+FirstChild	headfiles/tinyxml.h	/^	TiXmlHandle FirstChild( const std::string& _value ) const				{ return FirstChild( _value.c_str() ); }$/;"	f	class:TiXmlHandle
+FirstChild	headfiles/tinyxml.h	/^	TiXmlNode* FirstChild( const char * _value ) {$/;"	f	class:TiXmlNode
+FirstChild	headfiles/tinyxml.h	/^	TiXmlNode* FirstChild( const std::string& _value )				{	return FirstChild (_value.c_str ());	}	\/\/\/< STL std::string form.$/;"	f	class:TiXmlNode
+FirstChild	headfiles/tinyxml.h	/^	TiXmlNode* FirstChild()						{ return firstChild; }$/;"	f	class:TiXmlNode
+FirstChild	headfiles/tinyxml.h	/^	const TiXmlNode* FirstChild( const std::string& _value ) const	{	return FirstChild (_value.c_str ());	}	\/\/\/< STL std::string form.$/;"	f	class:TiXmlNode
+FirstChild	headfiles/tinyxml.h	/^	const TiXmlNode* FirstChild()	const		{ return firstChild; }	\/\/\/< The first child of this node. Will be null if there are no children.$/;"	f	class:TiXmlNode
+FirstChild	sourcefiles/tinyxml.cpp	/^TiXmlHandle TiXmlHandle::FirstChild( const char * value ) const$/;"	f	class:TiXmlHandle
+FirstChild	sourcefiles/tinyxml.cpp	/^TiXmlHandle TiXmlHandle::FirstChild() const$/;"	f	class:TiXmlHandle
+FirstChild	sourcefiles/tinyxml.cpp	/^const TiXmlNode* TiXmlNode::FirstChild( const char * _value ) const$/;"	f	class:TiXmlNode
+FirstChildElement	headfiles/tinyxml.h	/^	TiXmlElement* FirstChildElement( const char * _value ) {$/;"	f	class:TiXmlNode
+FirstChildElement	headfiles/tinyxml.h	/^	TiXmlElement* FirstChildElement( const std::string& _value )				{	return FirstChildElement (_value.c_str ());	}	\/\/\/< STL std::string form.$/;"	f	class:TiXmlNode
+FirstChildElement	headfiles/tinyxml.h	/^	TiXmlElement* FirstChildElement() {$/;"	f	class:TiXmlNode
+FirstChildElement	headfiles/tinyxml.h	/^	TiXmlHandle FirstChildElement( const std::string& _value ) const		{ return FirstChildElement( _value.c_str() ); }$/;"	f	class:TiXmlHandle
+FirstChildElement	headfiles/tinyxml.h	/^	const TiXmlElement* FirstChildElement( const std::string& _value ) const	{	return FirstChildElement (_value.c_str ());	}	\/\/\/< STL std::string form.$/;"	f	class:TiXmlNode
+FirstChildElement	sourcefiles/tinyxml.cpp	/^TiXmlHandle TiXmlHandle::FirstChildElement( const char * value ) const$/;"	f	class:TiXmlHandle
+FirstChildElement	sourcefiles/tinyxml.cpp	/^TiXmlHandle TiXmlHandle::FirstChildElement() const$/;"	f	class:TiXmlHandle
+FirstChildElement	sourcefiles/tinyxml.cpp	/^const TiXmlElement* TiXmlNode::FirstChildElement( const char * _value ) const$/;"	f	class:TiXmlNode
+FirstChildElement	sourcefiles/tinyxml.cpp	/^const TiXmlElement* TiXmlNode::FirstChildElement() const$/;"	f	class:TiXmlNode
+FreeThreads	headfiles/myThreadPool.h	/^	vector<thread> FreeThreads;$/;"	m	class:MyThreadPool
+FriendInfo	headfiles/friendServer.h	/^	Message FriendInfo;$/;"	m	class:friendsServer
+FriendsList	headfiles/contacts.h	/^	unordered_map<string, friendData> FriendsList;$/;"	m	class:Contacts
+FriendsList	headfiles/friendServer.h	/^	unordered_map<string, friendData> FriendsList;$/;"	m	class:friendsServer
+FromName	headfiles/chatServer.h	/^	string FromName;$/;"	m	class:chatServer
+FromName	headfiles/fileServer.h	/^	string FromName;$/;"	m	class:fileServer
+GetChar	headfiles/tinyxml.h	/^	inline static const char* GetChar( const char* p, char* _value, int* length, TiXmlEncoding encoding )$/;"	f	class:TiXmlBase
+GetDocument	headfiles/tinyxml.h	/^	TiXmlDocument* GetDocument() {$/;"	f	class:TiXmlNode
+GetDocument	sourcefiles/tinyxml.cpp	/^const TiXmlDocument* TiXmlNode::GetDocument() const$/;"	f	class:TiXmlNode
+GetEntity	sourcefiles/tinyxmlparser.cpp	/^const char* TiXmlBase::GetEntity( const char* p, char* value, int* length, TiXmlEncoding encoding )$/;"	f	class:TiXmlBase
+GetText	sourcefiles/tinyxml.cpp	/^const char* TiXmlElement::GetText() const$/;"	f	class:TiXmlElement
+GetUserData	headfiles/tinyxml.h	/^	const void* GetUserData() const 		{ return userData; }	\/\/\/< Get a pointer to arbitrary user data.$/;"	f	class:TiXmlBase
+GetUserData	headfiles/tinyxml.h	/^	void* GetUserData()						{ return userData; }	\/\/\/< Get a pointer to arbitrary user data.$/;"	f	class:TiXmlBase
+GroupChat	headfiles/message.h	/^		GroupChat = 0x04,$/;"	e	enum:Message::MessageType
+HEX	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	458;"	d	file:
+HEX	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	449;"	d	file:
+HEX	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	458;"	d	file:
+HEX	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	449;"	d	file:
+HeadLine	headfiles/message.h	/^		HeadLine = 0x08,$/;"	e	enum:Message::MessageType
+ID_VOID_MAIN	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+ID_VOID_MAIN	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+INET_ADDR_STR	Client/server.cpp	10;"	d	file:
+IPAddress	headfiles/fileServer.h	/^	string IPAddress;$/;"	m	class:fileServer
+Identify	sourcefiles/tinyxmlparser.cpp	/^TiXmlNode* TiXmlNode::Identify( const char* p, TiXmlEncoding encoding )$/;"	f	class:TiXmlNode
+Indent	headfiles/tinyxml.h	/^	const char* Indent()							{ return indent.c_str(); }$/;"	f	class:TiXmlPrinter
+InsertAfterChild	sourcefiles/tinyxml.cpp	/^TiXmlNode* TiXmlNode::InsertAfterChild( TiXmlNode* afterThis, const TiXmlNode& addThis )$/;"	f	class:TiXmlNode
+InsertBeforeChild	sourcefiles/tinyxml.cpp	/^TiXmlNode* TiXmlNode::InsertBeforeChild( TiXmlNode* beforeThis, const TiXmlNode& addThis )$/;"	f	class:TiXmlNode
+InsertEndChild	sourcefiles/tinyxml.cpp	/^TiXmlNode* TiXmlNode::InsertEndChild( const TiXmlNode& addThis )$/;"	f	class:TiXmlNode
+IntValue	sourcefiles/tinyxml.cpp	/^int TiXmlAttribute::IntValue() const$/;"	f	class:TiXmlAttribute
+IsAlpha	sourcefiles/tinyxmlparser.cpp	/^\/*static*\/ int TiXmlBase::IsAlpha( unsigned char anyByte, TiXmlEncoding \/*encoding*\/ )$/;"	f	class:TiXmlBase
+IsAlphaNum	sourcefiles/tinyxmlparser.cpp	/^\/*static*\/ int TiXmlBase::IsAlphaNum( unsigned char anyByte, TiXmlEncoding \/*encoding*\/ )$/;"	f	class:TiXmlBase
+IsOnline	headfiles/contacts.h	/^	bool IsOnline = false;$/;"	m	class:friendData
+IsWhiteSpace	headfiles/tinyxml.h	/^	inline static bool IsWhiteSpace( char c )		$/;"	f	class:TiXmlBase
+IsWhiteSpace	headfiles/tinyxml.h	/^	inline static bool IsWhiteSpace( int c )$/;"	f	class:TiXmlBase
+IsWhiteSpaceCondensed	headfiles/tinyxml.h	/^	static bool IsWhiteSpaceCondensed()						{ return condenseWhiteSpace; }$/;"	f	class:TiXmlBase
+IterateChildren	headfiles/tinyxml.h	/^	TiXmlNode* IterateChildren( const TiXmlNode* previous ) {$/;"	f	class:TiXmlNode
+IterateChildren	headfiles/tinyxml.h	/^	TiXmlNode* IterateChildren( const char * _value, const TiXmlNode* previous ) {$/;"	f	class:TiXmlNode
+IterateChildren	headfiles/tinyxml.h	/^	TiXmlNode* IterateChildren( const std::string& _value, const TiXmlNode* previous ) {	return IterateChildren (_value.c_str (), previous);	}	\/\/\/< STL std::string form.$/;"	f	class:TiXmlNode
+IterateChildren	headfiles/tinyxml.h	/^	const TiXmlNode* IterateChildren( const std::string& _value, const TiXmlNode* previous ) const	{	return IterateChildren (_value.c_str (), previous);	}	\/\/\/< STL std::string form.$/;"	f	class:TiXmlNode
+IterateChildren	sourcefiles/tinyxml.cpp	/^const TiXmlNode* TiXmlNode::IterateChildren( const TiXmlNode* previous ) const$/;"	f	class:TiXmlNode
+IterateChildren	sourcefiles/tinyxml.cpp	/^const TiXmlNode* TiXmlNode::IterateChildren( const char * val, const TiXmlNode* previous ) const$/;"	f	class:TiXmlNode
+Last	headfiles/tinyxml.h	/^	TiXmlAttribute* Last()					{ return ( sentinel.prev == &sentinel ) ? 0 : sentinel.prev; }$/;"	f	class:TiXmlAttributeSet
+Last	headfiles/tinyxml.h	/^	const TiXmlAttribute* Last() const		{ return ( sentinel.prev == &sentinel ) ? 0 : sentinel.prev; }$/;"	f	class:TiXmlAttributeSet
+LastAttribute	headfiles/tinyxml.h	/^	TiXmlAttribute* LastAttribute()					{ return attributeSet.Last(); }$/;"	f	class:TiXmlElement
+LastAttribute	headfiles/tinyxml.h	/^	const TiXmlAttribute* LastAttribute()	const 	{ return attributeSet.Last(); }		\/\/\/< Access the last attribute in this element.$/;"	f	class:TiXmlElement
+LastChild	headfiles/tinyxml.h	/^	TiXmlNode* LastChild( const char * _value ) {$/;"	f	class:TiXmlNode
+LastChild	headfiles/tinyxml.h	/^	TiXmlNode* LastChild( const std::string& _value )				{	return LastChild (_value.c_str ());	}	\/\/\/< STL std::string form.$/;"	f	class:TiXmlNode
+LastChild	headfiles/tinyxml.h	/^	TiXmlNode* LastChild()	{ return lastChild; }$/;"	f	class:TiXmlNode
+LastChild	headfiles/tinyxml.h	/^	const TiXmlNode* LastChild( const std::string& _value ) const	{	return LastChild (_value.c_str ());	}	\/\/\/< STL std::string form.$/;"	f	class:TiXmlNode
+LastChild	headfiles/tinyxml.h	/^	const TiXmlNode* LastChild() const	{ return lastChild; }		\/\/\/ The last child of this node. Will be null if there are no children.$/;"	f	class:TiXmlNode
+LastChild	sourcefiles/tinyxml.cpp	/^const TiXmlNode* TiXmlNode::LastChild( const char * _value ) const$/;"	f	class:TiXmlNode
+LineBreak	headfiles/tinyxml.h	/^	const char* LineBreak()							{ return lineBreak.c_str(); }$/;"	f	class:TiXmlPrinter
+LinkEndChild	sourcefiles/tinyxml.cpp	/^TiXmlNode* TiXmlNode::LinkEndChild( TiXmlNode* node )$/;"	f	class:TiXmlNode
+LoadFile	headfiles/tinyxml.h	/^	bool LoadFile( const std::string& filename, TiXmlEncoding encoding = TIXML_DEFAULT_ENCODING )			\/\/\/< STL std::string version.$/;"	f	class:TiXmlDocument
+LoadFile	sourcefiles/tinyxml.cpp	/^bool TiXmlDocument::LoadFile( FILE* file, TiXmlEncoding encoding )$/;"	f	class:TiXmlDocument
+LoadFile	sourcefiles/tinyxml.cpp	/^bool TiXmlDocument::LoadFile( TiXmlEncoding encoding )$/;"	f	class:TiXmlDocument
+LoadFile	sourcefiles/tinyxml.cpp	/^bool TiXmlDocument::LoadFile( const char* _filename, TiXmlEncoding encoding )$/;"	f	class:TiXmlDocument
+LogInInfo	headfiles/logInServer.h	/^	Message LogInInfo;$/;"	m	class:logInServer
+MAX_ENTITY_LENGTH	headfiles/tinyxml.h	/^		MAX_ENTITY_LENGTH = 6$/;"	e	enum:TiXmlBase::__anon3
+MAX_EVENTS	server/MyEpollPort.cpp	3;"	d	file:
+MAX_EVENTS	sourcefiles/MyEpollPort.cpp	3;"	d	file:
+MAX_LINE	Client/Test.cpp	11;"	d	file:
+MAX_LINE	Client/server.cpp	9;"	d	file:
+MAX_SIZE	headfiles/MyEpollPort.h	18;"	d
+MAX_SIZE	server/MyEpollPort.h	18;"	d
+MESSAGE_TYPE_CHAT	headfiles/message.h	12;"	d
+MESSAGE_TYPE_GROUPCHAT	headfiles/message.h	13;"	d
+MESSAGE_TYPE_HEADLINE	headfiles/message.h	14;"	d
+MESSAGE_TYPE_NORMAL	headfiles/message.h	11;"	d
+Message	headfiles/message.h	/^class Message$/;"	c
+Message	sourcefiles/message.cpp	/^Message::Message()$/;"	f	class:Message
+Message	sourcefiles/message.cpp	/^Message::Message(const xmlHandler & stanza)$/;"	f	class:Message
+MessageInfo	headfiles/chatServer.h	/^	Message MessageInfo;$/;"	m	class:chatServer
+MessageInfo	headfiles/fileServer.h	/^	Message MessageInfo;$/;"	m	class:fileServer
+MessageType	headfiles/message.h	/^	enum MessageType {$/;"	g	class:Message
+MyMutex	headfiles/chatServer.h	/^	mutex MyMutex;$/;"	m	class:chatServer
+MyMutex	headfiles/fileServer.h	/^	mutex MyMutex;$/;"	m	class:fileServer
+MyMutex	headfiles/friendServer.h	/^	mutex MyMutex;$/;"	m	class:friendsServer
+MyMutex	headfiles/logInServer.h	/^	mutex MyMutex;$/;"	m	class:logInServer
+MyMutex	headfiles/registerServer.h	/^	mutex MyMutex;$/;"	m	class:registerServer
+MyThreadPool	headfiles/myThreadPool.h	/^class MyThreadPool$/;"	c
+MyThreadPool	sourcefiles/myThreadPool.cpp	/^MyThreadPool::MyThreadPool(int num)$/;"	f	class:MyThreadPool
+NUM_ENTITY	headfiles/tinyxml.h	/^		NUM_ENTITY = 5,$/;"	e	enum:TiXmlBase::__anon3
+Name	headfiles/tinyxml.h	/^	const char*		Name()  const		{ return name.c_str(); }		\/\/\/< Return the name of this attribute.$/;"	f	class:TiXmlAttribute
+NameTStr	headfiles/tinyxml.h	/^	const TIXML_STRING& NameTStr() const { return name; }$/;"	f	class:TiXmlAttribute
+Next	headfiles/tinyxml.h	/^	TiXmlAttribute* Next() {$/;"	f	class:TiXmlAttribute
+Next	sourcefiles/tinyxml.cpp	/^const TiXmlAttribute* TiXmlAttribute::Next() const$/;"	f	class:TiXmlAttribute
+NextSibling	headfiles/tinyxml.h	/^	TiXmlNode* NextSibling( const char* _next ) {$/;"	f	class:TiXmlNode
+NextSibling	headfiles/tinyxml.h	/^	TiXmlNode* NextSibling( const std::string& _value) 					{	return NextSibling (_value.c_str ());	}	\/\/\/< STL std::string form.$/;"	f	class:TiXmlNode
+NextSibling	headfiles/tinyxml.h	/^	TiXmlNode* NextSibling()							{ return next; }$/;"	f	class:TiXmlNode
+NextSibling	headfiles/tinyxml.h	/^	const TiXmlNode* NextSibling( const std::string& _value) const		{	return NextSibling (_value.c_str ());	}	\/\/\/< STL std::string form.$/;"	f	class:TiXmlNode
+NextSibling	headfiles/tinyxml.h	/^	const TiXmlNode* NextSibling() const				{ return next; }$/;"	f	class:TiXmlNode
+NextSibling	sourcefiles/tinyxml.cpp	/^const TiXmlNode* TiXmlNode::NextSibling( const char * _value ) const $/;"	f	class:TiXmlNode
+NextSiblingElement	headfiles/tinyxml.h	/^	TiXmlElement* NextSiblingElement( const char *_next ) {$/;"	f	class:TiXmlNode
+NextSiblingElement	headfiles/tinyxml.h	/^	TiXmlElement* NextSiblingElement( const std::string& _value)				{	return NextSiblingElement (_value.c_str ());	}	\/\/\/< STL std::string form.$/;"	f	class:TiXmlNode
+NextSiblingElement	headfiles/tinyxml.h	/^	TiXmlElement* NextSiblingElement() {$/;"	f	class:TiXmlNode
+NextSiblingElement	headfiles/tinyxml.h	/^	const TiXmlElement* NextSiblingElement( const std::string& _value) const	{	return NextSiblingElement (_value.c_str ());	}	\/\/\/< STL std::string form.$/;"	f	class:TiXmlNode
+NextSiblingElement	sourcefiles/tinyxml.cpp	/^const TiXmlElement* TiXmlNode::NextSiblingElement( const char * _value ) const$/;"	f	class:TiXmlNode
+NextSiblingElement	sourcefiles/tinyxml.cpp	/^const TiXmlElement* TiXmlNode::NextSiblingElement() const$/;"	f	class:TiXmlNode
+NoChildren	headfiles/tinyxml.h	/^	bool NoChildren() const						{ return !firstChild; }$/;"	f	class:TiXmlNode
+Node	headfiles/tinyxml.h	/^	TiXmlNode* Node() const			{ return ToNode(); } $/;"	f	class:TiXmlHandle
+NodeType	headfiles/tinyxml.h	/^	enum NodeType$/;"	g	class:TiXmlNode
+Noraml	headfiles/message.h	/^		Noraml = 0x01,$/;"	e	enum:Message::MessageType
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	301;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	304;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	307;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	310;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	313;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	316;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	319;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	322;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	325;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	328;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	331;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	334;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	337;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	340;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	343;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	346;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	349;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	352;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	355;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	358;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	361;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	364;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	367;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	370;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	373;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	377;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	380;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	383;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	386;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	389;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	393;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	292;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	295;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	298;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	301;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	304;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	307;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	310;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	313;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	316;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	319;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	322;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	325;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	328;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	331;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	334;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	337;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	340;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	343;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	346;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	349;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	352;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	355;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	358;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	361;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	364;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	368;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	371;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	374;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	377;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	380;"	d	file:
+PLATFORM_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	384;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	301;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	304;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	307;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	310;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	313;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	316;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	319;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	322;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	325;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	328;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	331;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	334;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	337;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	340;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	343;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	346;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	349;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	352;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	355;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	358;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	361;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	364;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	367;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	370;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	373;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	377;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	380;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	383;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	386;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	389;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	393;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	292;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	295;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	298;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	301;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	304;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	307;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	310;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	313;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	316;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	319;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	322;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	325;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	328;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	331;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	334;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	337;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	340;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	343;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	346;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	349;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	352;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	355;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	358;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	361;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	364;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	368;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	371;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	374;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	377;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	380;"	d	file:
+PLATFORM_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	384;"	d	file:
+Parent	headfiles/tinyxml.h	/^	TiXmlNode* Parent()							{ return parent; }$/;"	f	class:TiXmlNode
+Parent	headfiles/tinyxml.h	/^	const TiXmlNode* Parent() const				{ return parent; }$/;"	f	class:TiXmlNode
+Parse	sourcefiles/tinyxmlparser.cpp	/^const char* TiXmlAttribute::Parse( const char* p, TiXmlParsingData* data, TiXmlEncoding encoding )$/;"	f	class:TiXmlAttribute
+Parse	sourcefiles/tinyxmlparser.cpp	/^const char* TiXmlComment::Parse( const char* p, TiXmlParsingData* data, TiXmlEncoding encoding )$/;"	f	class:TiXmlComment
+Parse	sourcefiles/tinyxmlparser.cpp	/^const char* TiXmlDeclaration::Parse( const char* p, TiXmlParsingData* data, TiXmlEncoding _encoding )$/;"	f	class:TiXmlDeclaration
+Parse	sourcefiles/tinyxmlparser.cpp	/^const char* TiXmlDocument::Parse( const char* p, TiXmlParsingData* prevData, TiXmlEncoding encoding )$/;"	f	class:TiXmlDocument
+Parse	sourcefiles/tinyxmlparser.cpp	/^const char* TiXmlElement::Parse( const char* p, TiXmlParsingData* data, TiXmlEncoding encoding )$/;"	f	class:TiXmlElement
+Parse	sourcefiles/tinyxmlparser.cpp	/^const char* TiXmlText::Parse( const char* p, TiXmlParsingData* data, TiXmlEncoding encoding )$/;"	f	class:TiXmlText
+Parse	sourcefiles/tinyxmlparser.cpp	/^const char* TiXmlUnknown::Parse( const char* p, TiXmlParsingData* data, TiXmlEncoding encoding )$/;"	f	class:TiXmlUnknown
+PassWord	headfiles/contacts.h	/^	string PassWord;$/;"	m	class:Contacts
+PassWord	headfiles/logInServer.h	/^	string PassWord;$/;"	m	class:logInServer
+PassWord	headfiles/registerServer.h	/^	string PassWord;$/;"	m	class:registerServer
+Port	headfiles/fileServer.h	/^	int Port;$/;"	m	class:fileServer
+Previous	headfiles/tinyxml.h	/^	TiXmlAttribute* Previous() {$/;"	f	class:TiXmlAttribute
+Previous	sourcefiles/tinyxml.cpp	/^const TiXmlAttribute* TiXmlAttribute::Previous() const$/;"	f	class:TiXmlAttribute
+PreviousSibling	headfiles/tinyxml.h	/^	TiXmlNode* PreviousSibling( const char *_prev ) {$/;"	f	class:TiXmlNode
+PreviousSibling	headfiles/tinyxml.h	/^	TiXmlNode* PreviousSibling( const std::string& _value ) 			{	return PreviousSibling (_value.c_str ());	}	\/\/\/< STL std::string form.$/;"	f	class:TiXmlNode
+PreviousSibling	headfiles/tinyxml.h	/^	TiXmlNode* PreviousSibling()						{ return prev; }$/;"	f	class:TiXmlNode
+PreviousSibling	headfiles/tinyxml.h	/^	const TiXmlNode* PreviousSibling( const std::string& _value ) const	{	return PreviousSibling (_value.c_str ());	}	\/\/\/< STL std::string form.$/;"	f	class:TiXmlNode
+PreviousSibling	headfiles/tinyxml.h	/^	const TiXmlNode* PreviousSibling() const			{ return prev; }$/;"	f	class:TiXmlNode
+PreviousSibling	sourcefiles/tinyxml.cpp	/^const TiXmlNode* TiXmlNode::PreviousSibling( const char * _value ) const$/;"	f	class:TiXmlNode
+Print	headfiles/tinyxml.h	/^	virtual void Print( FILE* cfile, int depth ) const {$/;"	f	class:TiXmlAttribute
+Print	headfiles/tinyxml.h	/^	virtual void Print( FILE* cfile, int depth ) const {$/;"	f	class:TiXmlDeclaration
+Print	headfiles/tinyxml.h	/^	void Print() const						{ Print( stdout, 0 ); }$/;"	f	class:TiXmlDocument
+Print	sourcefiles/tinyxml.cpp	/^void TiXmlAttribute::Print( FILE* cfile, int \/*depth*\/, TIXML_STRING* str ) const$/;"	f	class:TiXmlAttribute
+Print	sourcefiles/tinyxml.cpp	/^void TiXmlComment::Print( FILE* cfile, int depth ) const$/;"	f	class:TiXmlComment
+Print	sourcefiles/tinyxml.cpp	/^void TiXmlDeclaration::Print( FILE* cfile, int \/*depth*\/, TIXML_STRING* str ) const$/;"	f	class:TiXmlDeclaration
+Print	sourcefiles/tinyxml.cpp	/^void TiXmlDocument::Print( FILE* cfile, int depth ) const$/;"	f	class:TiXmlDocument
+Print	sourcefiles/tinyxml.cpp	/^void TiXmlElement::Print( FILE* cfile, int depth ) const$/;"	f	class:TiXmlElement
+Print	sourcefiles/tinyxml.cpp	/^void TiXmlText::Print( FILE* cfile, int depth ) const$/;"	f	class:TiXmlText
+Print	sourcefiles/tinyxml.cpp	/^void TiXmlUnknown::Print( FILE* cfile, int depth ) const$/;"	f	class:TiXmlUnknown
+QueryBoolAttribute	sourcefiles/tinyxml.cpp	/^int TiXmlElement::QueryBoolAttribute( const char* name, bool* bval ) const$/;"	f	class:TiXmlElement
+QueryDoubleAttribute	sourcefiles/tinyxml.cpp	/^int TiXmlElement::QueryDoubleAttribute( const char* name, double* dval ) const$/;"	f	class:TiXmlElement
+QueryDoubleAttribute	sourcefiles/tinyxml.cpp	/^int TiXmlElement::QueryDoubleAttribute( const std::string& name, double* dval ) const$/;"	f	class:TiXmlElement
+QueryDoubleValue	sourcefiles/tinyxml.cpp	/^int TiXmlAttribute::QueryDoubleValue( double* dval ) const$/;"	f	class:TiXmlAttribute
+QueryFloatAttribute	headfiles/tinyxml.h	/^	int QueryFloatAttribute( const char* name, float* _value ) const {$/;"	f	class:TiXmlElement
+QueryIntAttribute	sourcefiles/tinyxml.cpp	/^int TiXmlElement::QueryIntAttribute( const char* name, int* ival ) const$/;"	f	class:TiXmlElement
+QueryIntAttribute	sourcefiles/tinyxml.cpp	/^int TiXmlElement::QueryIntAttribute( const std::string& name, int* ival ) const$/;"	f	class:TiXmlElement
+QueryIntValue	sourcefiles/tinyxml.cpp	/^int TiXmlAttribute::QueryIntValue( int* ival ) const$/;"	f	class:TiXmlAttribute
+QueryStringAttribute	headfiles/tinyxml.h	/^	int QueryStringAttribute( const char* name, std::string* _value ) const {$/;"	f	class:TiXmlElement
+QueryUnsignedAttribute	sourcefiles/tinyxml.cpp	/^int TiXmlElement::QueryUnsignedAttribute( const char* name, unsigned* value ) const$/;"	f	class:TiXmlElement
+QueryValueAttribute	headfiles/tinyxml.h	/^	int QueryValueAttribute( const std::string& name, std::string* outValue ) const$/;"	f	class:TiXmlElement
+QueryValueAttribute	headfiles/tinyxml.h	/^	template< typename T > int QueryValueAttribute( const std::string& name, T* outValue ) const$/;"	f	class:TiXmlElement
+RM	server/Makefile	/^RM = \/usr\/local\/bin\/cmake -E remove -f$/;"	m
+RM	sourcefiles/Makefile	/^RM = \/usr\/local\/bin\/cmake -E remove -f$/;"	m
+ReadName	sourcefiles/tinyxmlparser.cpp	/^const char* TiXmlBase::ReadName( const char* p, TIXML_STRING * name, TiXmlEncoding encoding )$/;"	f	class:TiXmlBase
+ReadText	sourcefiles/tinyxmlparser.cpp	/^const char* TiXmlBase::ReadText(	const char* p, $/;"	f	class:TiXmlBase
+ReadValue	sourcefiles/tinyxmlparser.cpp	/^const char* TiXmlElement::ReadValue( const char* p, TiXmlParsingData* data, TiXmlEncoding encoding )$/;"	f	class:TiXmlElement
+RegisterInfo	headfiles/registerServer.h	/^	Message RegisterInfo;$/;"	m	class:registerServer
+RemarkName	headfiles/contacts.h	/^	string RemarkName;$/;"	m	class:friendData
+Remove	sourcefiles/tinyxml.cpp	/^void TiXmlAttributeSet::Remove( TiXmlAttribute* removeMe )$/;"	f	class:TiXmlAttributeSet
+RemoveAttribute	headfiles/tinyxml.h	/^	void RemoveAttribute( const std::string& name )	{	RemoveAttribute (name.c_str ());	}	\/\/\/< STL std::string form.$/;"	f	class:TiXmlElement
+RemoveAttribute	sourcefiles/tinyxml.cpp	/^void TiXmlElement::RemoveAttribute( const char * name )$/;"	f	class:TiXmlElement
+RemoveChild	sourcefiles/tinyxml.cpp	/^bool TiXmlNode::RemoveChild( TiXmlNode* removeThis )$/;"	f	class:TiXmlNode
+Rep	headfiles/tinystr.h	/^	struct Rep$/;"	s	class:TiXmlString
+ReplaceChild	sourcefiles/tinyxml.cpp	/^TiXmlNode* TiXmlNode::ReplaceChild( TiXmlNode* replaceThis, const TiXmlNode& withThis )$/;"	f	class:TiXmlNode
+RootElement	headfiles/tinyxml.h	/^	TiXmlElement* RootElement()					{ return FirstChildElement(); }$/;"	f	class:TiXmlDocument
+RootElement	headfiles/tinyxml.h	/^	const TiXmlElement* RootElement() const		{ return FirstChildElement(); }$/;"	f	class:TiXmlDocument
+Row	headfiles/tinyxml.h	/^	int Row() const			{ return location.row + 1; }$/;"	f	class:TiXmlBase
+SHELL	server/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	sourcefiles/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	163;"	d	file:
+SIMULATE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	178;"	d	file:
+SIMULATE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	21;"	d	file:
+SIMULATE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	file:
+SIMULATE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	172;"	d	file:
+SIMULATE_ID	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	163;"	d	file:
+SIMULATE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	178;"	d	file:
+SIMULATE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	21;"	d	file:
+SIMULATE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	file:
+SIMULATE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	172;"	d	file:
+SIMULATE_ID	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+SIMULATE_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	185;"	d	file:
+SIMULATE_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	37;"	d	file:
+SIMULATE_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+SIMULATE_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+SIMULATE_VERSION_MAJOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	file:
+SIMULATE_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+SIMULATE_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	185;"	d	file:
+SIMULATE_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	37;"	d	file:
+SIMULATE_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+SIMULATE_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+SIMULATE_VERSION_MAJOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	file:
+SIMULATE_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	171;"	d	file:
+SIMULATE_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	186;"	d	file:
+SIMULATE_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	38;"	d	file:
+SIMULATE_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	165;"	d	file:
+SIMULATE_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	file:
+SIMULATE_VERSION_MINOR	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+SIMULATE_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	171;"	d	file:
+SIMULATE_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	186;"	d	file:
+SIMULATE_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	38;"	d	file:
+SIMULATE_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	165;"	d	file:
+SIMULATE_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	file:
+SIMULATE_VERSION_MINOR	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+SOCKET	headfiles/server.h	/^typedef int SOCKET;$/;"	t
+STANZA_TYPE_ERROR	headfiles/message.h	15;"	d
+STRINGIFY	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	297;"	d	file:
+STRINGIFY	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	288;"	d	file:
+STRINGIFY	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	297;"	d	file:
+STRINGIFY	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	288;"	d	file:
+STRINGIFY_HELPER	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	296;"	d	file:
+STRINGIFY_HELPER	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	287;"	d	file:
+STRINGIFY_HELPER	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	296;"	d	file:
+STRINGIFY_HELPER	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	287;"	d	file:
+SUFFIXES	server/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	sourcefiles/Makefile	/^SUFFIXES =$/;"	m
+SaveFile	headfiles/tinyxml.h	/^	bool SaveFile( const std::string& filename ) const		\/\/\/< STL std::string version.$/;"	f	class:TiXmlDocument
+SaveFile	sourcefiles/tinyxml.cpp	/^bool TiXmlDocument::SaveFile( FILE* fp ) const$/;"	f	class:TiXmlDocument
+SaveFile	sourcefiles/tinyxml.cpp	/^bool TiXmlDocument::SaveFile( const char * filename ) const$/;"	f	class:TiXmlDocument
+SaveFile	sourcefiles/tinyxml.cpp	/^bool TiXmlDocument::SaveFile() const$/;"	f	class:TiXmlDocument
+ServerAddr	headfiles/MyEpollPort.h	/^	sockaddr_in ServerAddr;$/;"	m	class:myEpollServer
+ServerAddr	server/MyEpollPort.h	/^	sockaddr_in ServerAddr;$/;"	m	class:myEpollServer
+ServerFd	headfiles/MyEpollPort.h	/^	int ServerFd=0;$/;"	m	class:myEpollServer
+ServerFd	server/MyEpollPort.h	/^	int ServerFd=0;$/;"	m	class:myEpollServer
+ServerHandler	headfiles/MyEpollPort.h	/^	serverHandler *ServerHandler;$/;"	m	class:myEpollServer
+ServerHandler	server/MyEpollPort.h	/^	serverHandler *ServerHandler;$/;"	m	class:myEpollServer
+ServerPort	headfiles/MyEpollPort.h	/^	int ServerPort;$/;"	m	class:myEpollServer
+ServerPort	server/MyEpollPort.h	/^	int ServerPort;$/;"	m	class:myEpollServer
+ServerSocket	headfiles/chatServer.h	/^	SOCKET ServerSocket;$/;"	m	class:chatServer
+ServerSocket	headfiles/fileServer.h	/^	SOCKET ServerSocket;$/;"	m	class:fileServer
+ServerSocket	headfiles/friendServer.h	/^	SOCKET ServerSocket;$/;"	m	class:friendsServer
+ServerSocket	headfiles/logInServer.h	/^	SOCKET ServerSocket;$/;"	m	class:logInServer
+ServerSocket	headfiles/registerServer.h	/^	SOCKET ServerSocket;$/;"	m	class:registerServer
+ServerThreadPool	headfiles/serverHandler.h	/^	MyThreadPool *ServerThreadPool;$/;"	m	class:serverHandler
+SetAttribute	sourcefiles/tinyxml.cpp	/^void TiXmlElement::SetAttribute( const char * cname, const char * cvalue )$/;"	f	class:TiXmlElement
+SetAttribute	sourcefiles/tinyxml.cpp	/^void TiXmlElement::SetAttribute( const char * name, int val )$/;"	f	class:TiXmlElement
+SetAttribute	sourcefiles/tinyxml.cpp	/^void TiXmlElement::SetAttribute( const std::string& _name, const std::string& _value )$/;"	f	class:TiXmlElement
+SetAttribute	sourcefiles/tinyxml.cpp	/^void TiXmlElement::SetAttribute( const std::string& name, int val )$/;"	f	class:TiXmlElement
+SetCDATA	headfiles/tinyxml.h	/^	void SetCDATA( bool _cdata )	{ cdata = _cdata; }$/;"	f	class:TiXmlText
+SetCondenseWhiteSpace	headfiles/tinyxml.h	/^	static void SetCondenseWhiteSpace( bool condense )		{ condenseWhiteSpace = condense; }$/;"	f	class:TiXmlBase
+SetDocument	headfiles/tinyxml.h	/^	void SetDocument( TiXmlDocument* doc )	{ document = doc; }$/;"	f	class:TiXmlAttribute
+SetDoubleAttribute	sourcefiles/tinyxml.cpp	/^void TiXmlElement::SetDoubleAttribute( const char * name, double val )$/;"	f	class:TiXmlElement
+SetDoubleAttribute	sourcefiles/tinyxml.cpp	/^void TiXmlElement::SetDoubleAttribute( const std::string& name, double val )$/;"	f	class:TiXmlElement
+SetDoubleValue	sourcefiles/tinyxml.cpp	/^void TiXmlAttribute::SetDoubleValue( double _value )$/;"	f	class:TiXmlAttribute
+SetError	sourcefiles/tinyxmlparser.cpp	/^void TiXmlDocument::SetError( int err, const char* pError, TiXmlParsingData* data, TiXmlEncoding encoding )$/;"	f	class:TiXmlDocument
+SetIndent	headfiles/tinyxml.h	/^	void SetIndent( const char* _indent )			{ indent = _indent ? _indent : "" ; }$/;"	f	class:TiXmlPrinter
+SetIntValue	sourcefiles/tinyxml.cpp	/^void TiXmlAttribute::SetIntValue( int _value )$/;"	f	class:TiXmlAttribute
+SetLineBreak	headfiles/tinyxml.h	/^	void SetLineBreak( const char* _lineBreak )		{ lineBreak = _lineBreak ? _lineBreak : ""; }$/;"	f	class:TiXmlPrinter
+SetName	headfiles/tinyxml.h	/^	void SetName( const char* _name )	{ name = _name; }				\/\/\/< Set the name of this attribute.$/;"	f	class:TiXmlAttribute
+SetName	headfiles/tinyxml.h	/^	void SetName( const std::string& _name )	{ name = _name; }	$/;"	f	class:TiXmlAttribute
+SetStreamPrinting	headfiles/tinyxml.h	/^	void SetStreamPrinting()						{ indent = "";$/;"	f	class:TiXmlPrinter
+SetTabSize	headfiles/tinyxml.h	/^	void SetTabSize( int _tabsize )		{ tabsize = _tabsize; }$/;"	f	class:TiXmlDocument
+SetUserData	headfiles/tinyxml.h	/^	void  SetUserData( void* user )			{ userData = user; }	\/\/\/< Set a pointer to arbitrary user data.$/;"	f	class:TiXmlBase
+SetValue	headfiles/tinyxml.h	/^	void SetValue( const char* _value )	{ value = _value; }				\/\/\/< Set the value.$/;"	f	class:TiXmlAttribute
+SetValue	headfiles/tinyxml.h	/^	void SetValue( const std::string& _value )	{ value = _value; }$/;"	f	class:TiXmlAttribute
+SetValue	headfiles/tinyxml.h	/^	void SetValue( const std::string& _value )	{ value = _value; }$/;"	f	class:TiXmlNode
+SetValue	headfiles/tinyxml.h	/^	void SetValue(const char * _value) { value = _value;}$/;"	f	class:TiXmlNode
+Size	headfiles/tinyxml.h	/^	size_t Size()									{ return buffer.size(); }$/;"	f	class:TiXmlPrinter
+SkipWhiteSpace	sourcefiles/tinyxmlparser.cpp	/^const char* TiXmlBase::SkipWhiteSpace( const char* p, TiXmlEncoding encoding )$/;"	f	class:TiXmlBase
+Stamp	sourcefiles/tinyxmlparser.cpp	/^void TiXmlParsingData::Stamp( const char* now, TiXmlEncoding encoding )$/;"	f	class:TiXmlParsingData
+Standalone	headfiles/tinyxml.h	/^	const char *Standalone() const		{ return standalone.c_str (); }$/;"	f	class:TiXmlDeclaration
+Stanza	headfiles/chatServer.h	/^	xmlHandler *Stanza;$/;"	m	class:chatServer
+Stanza	headfiles/fileServer.h	/^	xmlHandler *Stanza;$/;"	m	class:fileServer
+Stanza	headfiles/friendServer.h	/^	xmlHandler *Stanza;$/;"	m	class:friendsServer
+Stanza	headfiles/message.h	/^	xmlHandler *Stanza;$/;"	m	class:Message
+Str	headfiles/tinyxml.h	/^	const std::string& Str()						{ return buffer; }$/;"	f	class:TiXmlPrinter
+StreamIn	sourcefiles/tinyxmlparser.cpp	/^void TiXmlComment::StreamIn( std::istream * in, TIXML_STRING * tag )$/;"	f	class:TiXmlComment
+StreamIn	sourcefiles/tinyxmlparser.cpp	/^void TiXmlDeclaration::StreamIn( std::istream * in, TIXML_STRING * tag )$/;"	f	class:TiXmlDeclaration
+StreamIn	sourcefiles/tinyxmlparser.cpp	/^void TiXmlDocument::StreamIn( std::istream * in, TIXML_STRING * tag )$/;"	f	class:TiXmlDocument
+StreamIn	sourcefiles/tinyxmlparser.cpp	/^void TiXmlElement::StreamIn (std::istream * in, TIXML_STRING * tag)$/;"	f	class:TiXmlElement
+StreamIn	sourcefiles/tinyxmlparser.cpp	/^void TiXmlText::StreamIn( std::istream * in, TIXML_STRING * tag )$/;"	f	class:TiXmlText
+StreamIn	sourcefiles/tinyxmlparser.cpp	/^void TiXmlUnknown::StreamIn( std::istream * in, TIXML_STRING * tag )$/;"	f	class:TiXmlUnknown
+StreamTo	sourcefiles/tinyxmlparser.cpp	/^\/*static*\/ bool TiXmlBase::StreamTo( std::istream * in, int character, TIXML_STRING * tag )$/;"	f	class:TiXmlBase
+StreamWhiteSpace	sourcefiles/tinyxmlparser.cpp	/^\/*static*\/ bool TiXmlBase::StreamWhiteSpace( std::istream * in, TIXML_STRING * tag )$/;"	f	class:TiXmlBase
+StringEqual	sourcefiles/tinyxmlparser.cpp	/^bool TiXmlBase::StringEqual( const char* p,$/;"	f	class:TiXmlBase
+TINYXML_COMMENT	headfiles/tinyxml.h	/^		TINYXML_COMMENT,$/;"	e	enum:TiXmlNode::NodeType
+TINYXML_DECLARATION	headfiles/tinyxml.h	/^		TINYXML_DECLARATION,$/;"	e	enum:TiXmlNode::NodeType
+TINYXML_DOCUMENT	headfiles/tinyxml.h	/^		TINYXML_DOCUMENT,$/;"	e	enum:TiXmlNode::NodeType
+TINYXML_ELEMENT	headfiles/tinyxml.h	/^		TINYXML_ELEMENT,$/;"	e	enum:TiXmlNode::NodeType
+TINYXML_INCLUDED	headfiles/tinyxml.h	27;"	d
+TINYXML_TEXT	headfiles/tinyxml.h	/^		TINYXML_TEXT,$/;"	e	enum:TiXmlNode::NodeType
+TINYXML_TYPECOUNT	headfiles/tinyxml.h	/^		TINYXML_TYPECOUNT$/;"	e	enum:TiXmlNode::NodeType
+TINYXML_UNKNOWN	headfiles/tinyxml.h	/^		TINYXML_UNKNOWN,$/;"	e	enum:TiXmlNode::NodeType
+TIXML_DEFAULT_ENCODING	headfiles/tinyxml.h	/^const TiXmlEncoding TIXML_DEFAULT_ENCODING = TIXML_ENCODING_UNKNOWN;$/;"	v
+TIXML_ENCODING_LEGACY	headfiles/tinyxml.h	/^	TIXML_ENCODING_LEGACY$/;"	e	enum:TiXmlEncoding
+TIXML_ENCODING_UNKNOWN	headfiles/tinyxml.h	/^	TIXML_ENCODING_UNKNOWN,$/;"	e	enum:TiXmlEncoding
+TIXML_ENCODING_UTF8	headfiles/tinyxml.h	/^	TIXML_ENCODING_UTF8,$/;"	e	enum:TiXmlEncoding
+TIXML_ERROR	headfiles/tinyxml.h	/^		TIXML_ERROR,$/;"	e	enum:TiXmlBase::__anon2
+TIXML_ERROR_DOCUMENT_EMPTY	headfiles/tinyxml.h	/^		TIXML_ERROR_DOCUMENT_EMPTY,$/;"	e	enum:TiXmlBase::__anon2
+TIXML_ERROR_DOCUMENT_TOP_ONLY	headfiles/tinyxml.h	/^		TIXML_ERROR_DOCUMENT_TOP_ONLY,$/;"	e	enum:TiXmlBase::__anon2
+TIXML_ERROR_EMBEDDED_NULL	headfiles/tinyxml.h	/^		TIXML_ERROR_EMBEDDED_NULL,$/;"	e	enum:TiXmlBase::__anon2
+TIXML_ERROR_FAILED_TO_READ_ELEMENT_NAME	headfiles/tinyxml.h	/^		TIXML_ERROR_FAILED_TO_READ_ELEMENT_NAME,$/;"	e	enum:TiXmlBase::__anon2
+TIXML_ERROR_OPENING_FILE	headfiles/tinyxml.h	/^		TIXML_ERROR_OPENING_FILE,$/;"	e	enum:TiXmlBase::__anon2
+TIXML_ERROR_PARSING_CDATA	headfiles/tinyxml.h	/^		TIXML_ERROR_PARSING_CDATA,$/;"	e	enum:TiXmlBase::__anon2
+TIXML_ERROR_PARSING_COMMENT	headfiles/tinyxml.h	/^		TIXML_ERROR_PARSING_COMMENT,$/;"	e	enum:TiXmlBase::__anon2
+TIXML_ERROR_PARSING_DECLARATION	headfiles/tinyxml.h	/^		TIXML_ERROR_PARSING_DECLARATION,$/;"	e	enum:TiXmlBase::__anon2
+TIXML_ERROR_PARSING_ELEMENT	headfiles/tinyxml.h	/^		TIXML_ERROR_PARSING_ELEMENT,$/;"	e	enum:TiXmlBase::__anon2
+TIXML_ERROR_PARSING_EMPTY	headfiles/tinyxml.h	/^		TIXML_ERROR_PARSING_EMPTY,$/;"	e	enum:TiXmlBase::__anon2
+TIXML_ERROR_PARSING_UNKNOWN	headfiles/tinyxml.h	/^		TIXML_ERROR_PARSING_UNKNOWN,$/;"	e	enum:TiXmlBase::__anon2
+TIXML_ERROR_READING_ATTRIBUTES	headfiles/tinyxml.h	/^		TIXML_ERROR_READING_ATTRIBUTES,$/;"	e	enum:TiXmlBase::__anon2
+TIXML_ERROR_READING_ELEMENT_VALUE	headfiles/tinyxml.h	/^		TIXML_ERROR_READING_ELEMENT_VALUE,$/;"	e	enum:TiXmlBase::__anon2
+TIXML_ERROR_READING_END_TAG	headfiles/tinyxml.h	/^		TIXML_ERROR_READING_END_TAG,$/;"	e	enum:TiXmlBase::__anon2
+TIXML_ERROR_STRING_COUNT	headfiles/tinyxml.h	/^		TIXML_ERROR_STRING_COUNT$/;"	e	enum:TiXmlBase::__anon2
+TIXML_EXPLICIT	headfiles/tinystr.h	39;"	d
+TIXML_EXPLICIT	headfiles/tinystr.h	42;"	d
+TIXML_EXPLICIT	headfiles/tinystr.h	44;"	d
+TIXML_LOG	sourcefiles/tinyxmlparser.cpp	34;"	d	file:
+TIXML_LOG	sourcefiles/tinyxmlparser.cpp	36;"	d	file:
+TIXML_MAJOR_VERSION	headfiles/tinyxml.h	/^const int TIXML_MAJOR_VERSION = 2;$/;"	v
+TIXML_MINOR_VERSION	headfiles/tinyxml.h	/^const int TIXML_MINOR_VERSION = 6;$/;"	v
+TIXML_NO_ATTRIBUTE	headfiles/tinyxml.h	/^	TIXML_NO_ATTRIBUTE,$/;"	e	enum:__anon1
+TIXML_NO_ERROR	headfiles/tinyxml.h	/^		TIXML_NO_ERROR = 0,$/;"	e	enum:TiXmlBase::__anon2
+TIXML_PATCH_VERSION	headfiles/tinyxml.h	/^const int TIXML_PATCH_VERSION = 2;$/;"	v
+TIXML_SAFE	headfiles/tinyxml.h	60;"	d
+TIXML_SNPRINTF	headfiles/tinyxml.h	65;"	d
+TIXML_SNPRINTF	headfiles/tinyxml.h	70;"	d
+TIXML_SNPRINTF	headfiles/tinyxml.h	75;"	d
+TIXML_SNPRINTF	headfiles/tinyxml.h	78;"	d
+TIXML_SSCANF	headfiles/tinyxml.h	66;"	d
+TIXML_SSCANF	headfiles/tinyxml.h	71;"	d
+TIXML_SSCANF	headfiles/tinyxml.h	76;"	d
+TIXML_SSCANF	headfiles/tinyxml.h	79;"	d
+TIXML_STRING	headfiles/tinyxml.h	50;"	d
+TIXML_STRING	headfiles/tinyxml.h	53;"	d
+TIXML_STRING_INCLUDED	headfiles/tinystr.h	28;"	d
+TIXML_SUCCESS	headfiles/tinyxml.h	/^	TIXML_SUCCESS,$/;"	e	enum:__anon1
+TIXML_UTF_LEAD_0	sourcefiles/tinyxmlparser.cpp	/^const unsigned char TIXML_UTF_LEAD_0 = 0xefU;$/;"	v
+TIXML_UTF_LEAD_1	sourcefiles/tinyxmlparser.cpp	/^const unsigned char TIXML_UTF_LEAD_1 = 0xbbU;$/;"	v
+TIXML_UTF_LEAD_2	sourcefiles/tinyxmlparser.cpp	/^const unsigned char TIXML_UTF_LEAD_2 = 0xbfU;$/;"	v
+TIXML_WRONG_TYPE	headfiles/tinyxml.h	/^	TIXML_WRONG_TYPE$/;"	e	enum:__anon1
+TabSize	headfiles/tinyxml.h	/^	int TabSize() const	{ return tabsize; }$/;"	f	class:TiXmlDocument
+TaskList	headfiles/myThreadPool.h	/^	queue<server*> TaskList;\/\/不一定是vector做容器，暂时先这么写着$/;"	m	class:MyThreadPool
+Text	headfiles/tinyxml.h	/^	TiXmlText* Text() const			{ return ToText(); }$/;"	f	class:TiXmlHandle
+ThreadNum	headfiles/myThreadPool.h	/^	int ThreadNum;$/;"	m	class:MyThreadPool
+ThreadNum	headfiles/serverHandler.h	/^	int ThreadNum = 20;$/;"	m	class:serverHandler
+ThreadPool	headfiles/myThreadPool.h	/^	vector<thread> ThreadPool;$/;"	m	class:MyThreadPool
+TiXmlAttribute	headfiles/tinyxml.h	/^	TiXmlAttribute( const char * _name, const char * _value )$/;"	f	class:TiXmlAttribute
+TiXmlAttribute	headfiles/tinyxml.h	/^	TiXmlAttribute( const std::string& _name, const std::string& _value )$/;"	f	class:TiXmlAttribute
+TiXmlAttribute	headfiles/tinyxml.h	/^	TiXmlAttribute() : TiXmlBase()$/;"	f	class:TiXmlAttribute
+TiXmlAttribute	headfiles/tinyxml.h	/^class TiXmlAttribute : public TiXmlBase$/;"	c
+TiXmlAttributeSet	headfiles/tinyxml.h	/^class TiXmlAttributeSet$/;"	c
+TiXmlAttributeSet	sourcefiles/tinyxml.cpp	/^TiXmlAttributeSet::TiXmlAttributeSet()$/;"	f	class:TiXmlAttributeSet
+TiXmlBase	headfiles/tinyxml.h	/^	TiXmlBase()	:	userData(0)		{}$/;"	f	class:TiXmlBase
+TiXmlBase	headfiles/tinyxml.h	/^class TiXmlBase$/;"	c
+TiXmlComment	headfiles/tinyxml.h	/^	TiXmlComment( const char* _value ) : TiXmlNode( TiXmlNode::TINYXML_COMMENT ) {$/;"	f	class:TiXmlComment
+TiXmlComment	headfiles/tinyxml.h	/^	TiXmlComment() : TiXmlNode( TiXmlNode::TINYXML_COMMENT ) {}$/;"	f	class:TiXmlComment
+TiXmlComment	headfiles/tinyxml.h	/^class TiXmlComment : public TiXmlNode$/;"	c
+TiXmlComment	sourcefiles/tinyxml.cpp	/^TiXmlComment::TiXmlComment( const TiXmlComment& copy ) : TiXmlNode( TiXmlNode::TINYXML_COMMENT )$/;"	f	class:TiXmlComment
+TiXmlCursor	headfiles/tinyxml.h	/^	TiXmlCursor()		{ Clear(); }$/;"	f	struct:TiXmlCursor
+TiXmlCursor	headfiles/tinyxml.h	/^struct TiXmlCursor$/;"	s
+TiXmlDeclaration	headfiles/tinyxml.h	/^	TiXmlDeclaration()   : TiXmlNode( TiXmlNode::TINYXML_DECLARATION ) {}$/;"	f	class:TiXmlDeclaration
+TiXmlDeclaration	headfiles/tinyxml.h	/^class TiXmlDeclaration : public TiXmlNode$/;"	c
+TiXmlDeclaration	sourcefiles/tinyxml.cpp	/^TiXmlDeclaration::TiXmlDeclaration(	const std::string& _version,$/;"	f	class:TiXmlDeclaration
+TiXmlDeclaration	sourcefiles/tinyxml.cpp	/^TiXmlDeclaration::TiXmlDeclaration( const TiXmlDeclaration& copy )$/;"	f	class:TiXmlDeclaration
+TiXmlDeclaration	sourcefiles/tinyxml.cpp	/^TiXmlDeclaration::TiXmlDeclaration( const char * _version,$/;"	f	class:TiXmlDeclaration
+TiXmlDocument	headfiles/tinyxml.h	/^class TiXmlDocument : public TiXmlNode$/;"	c
+TiXmlDocument	sourcefiles/tinyxml.cpp	/^TiXmlDocument::TiXmlDocument( const TiXmlDocument& copy ) : TiXmlNode( TiXmlNode::TINYXML_DOCUMENT )$/;"	f	class:TiXmlDocument
+TiXmlDocument	sourcefiles/tinyxml.cpp	/^TiXmlDocument::TiXmlDocument( const char * documentName ) : TiXmlNode( TiXmlNode::TINYXML_DOCUMENT )$/;"	f	class:TiXmlDocument
+TiXmlDocument	sourcefiles/tinyxml.cpp	/^TiXmlDocument::TiXmlDocument( const std::string& documentName ) : TiXmlNode( TiXmlNode::TINYXML_DOCUMENT )$/;"	f	class:TiXmlDocument
+TiXmlDocument	sourcefiles/tinyxml.cpp	/^TiXmlDocument::TiXmlDocument() : TiXmlNode( TiXmlNode::TINYXML_DOCUMENT )$/;"	f	class:TiXmlDocument
+TiXmlElement	headfiles/tinyxml.h	/^class TiXmlElement : public TiXmlNode$/;"	c
+TiXmlElement	sourcefiles/tinyxml.cpp	/^TiXmlElement::TiXmlElement (const char * _value)$/;"	f	class:TiXmlElement
+TiXmlElement	sourcefiles/tinyxml.cpp	/^TiXmlElement::TiXmlElement( const TiXmlElement& copy)$/;"	f	class:TiXmlElement
+TiXmlElement	sourcefiles/tinyxml.cpp	/^TiXmlElement::TiXmlElement( const std::string& _value ) $/;"	f	class:TiXmlElement
+TiXmlEncoding	headfiles/tinyxml.h	/^enum TiXmlEncoding$/;"	g
+TiXmlFOpen	sourcefiles/tinyxml.cpp	/^FILE* TiXmlFOpen( const char* filename, const char* mode )$/;"	f
+TiXmlHandle	headfiles/tinyxml.h	/^	TiXmlHandle( TiXmlNode* _node )					{ this->node = _node; }$/;"	f	class:TiXmlHandle
+TiXmlHandle	headfiles/tinyxml.h	/^	TiXmlHandle( const TiXmlHandle& ref )			{ this->node = ref.node; }$/;"	f	class:TiXmlHandle
+TiXmlHandle	headfiles/tinyxml.h	/^class TiXmlHandle$/;"	c
+TiXmlNode	headfiles/tinyxml.h	/^class TiXmlNode : public TiXmlBase$/;"	c
+TiXmlNode	sourcefiles/tinyxml.cpp	/^TiXmlNode::TiXmlNode( NodeType _type ) : TiXmlBase()$/;"	f	class:TiXmlNode
+TiXmlOutStream	headfiles/tinystr.h	/^class TiXmlOutStream : public TiXmlString$/;"	c
+TiXmlParsingData	sourcefiles/tinyxmlparser.cpp	/^	TiXmlParsingData( const char* start, int _tabsize, int row, int col )$/;"	f	class:TiXmlParsingData	file:
+TiXmlParsingData	sourcefiles/tinyxmlparser.cpp	/^class TiXmlParsingData$/;"	c	file:
+TiXmlPrinter	headfiles/tinyxml.h	/^	TiXmlPrinter() : depth( 0 ), simpleTextPrint( false ),$/;"	f	class:TiXmlPrinter
+TiXmlPrinter	headfiles/tinyxml.h	/^class TiXmlPrinter : public TiXmlVisitor$/;"	c
+TiXmlString	headfiles/tinystr.h	/^	TIXML_EXPLICIT TiXmlString ( const char * copy) : rep_(0)$/;"	f	class:TiXmlString
+TiXmlString	headfiles/tinystr.h	/^	TIXML_EXPLICIT TiXmlString ( const char * str, size_type len) : rep_(0)$/;"	f	class:TiXmlString
+TiXmlString	headfiles/tinystr.h	/^	TiXmlString ( const TiXmlString & copy) : rep_(0)$/;"	f	class:TiXmlString
+TiXmlString	headfiles/tinystr.h	/^	TiXmlString () : rep_(&nullrep_)$/;"	f	class:TiXmlString
+TiXmlString	headfiles/tinystr.h	/^class TiXmlString$/;"	c
+TiXmlText	headfiles/tinyxml.h	/^	TiXmlText (const char * initValue ) : TiXmlNode (TiXmlNode::TINYXML_TEXT)$/;"	f	class:TiXmlText
+TiXmlText	headfiles/tinyxml.h	/^	TiXmlText( const TiXmlText& copy ) : TiXmlNode( TiXmlNode::TINYXML_TEXT )	{ copy.CopyTo( this ); }$/;"	f	class:TiXmlText
+TiXmlText	headfiles/tinyxml.h	/^	TiXmlText( const std::string& initValue ) : TiXmlNode (TiXmlNode::TINYXML_TEXT)$/;"	f	class:TiXmlText
+TiXmlText	headfiles/tinyxml.h	/^class TiXmlText : public TiXmlNode$/;"	c
+TiXmlUnknown	headfiles/tinyxml.h	/^	TiXmlUnknown( const TiXmlUnknown& copy ) : TiXmlNode( TiXmlNode::TINYXML_UNKNOWN )		{ copy.CopyTo( this ); }$/;"	f	class:TiXmlUnknown
+TiXmlUnknown	headfiles/tinyxml.h	/^	TiXmlUnknown() : TiXmlNode( TiXmlNode::TINYXML_UNKNOWN )	{}$/;"	f	class:TiXmlUnknown
+TiXmlUnknown	headfiles/tinyxml.h	/^class TiXmlUnknown : public TiXmlNode$/;"	c
+TiXmlVisitor	headfiles/tinyxml.h	/^class TiXmlVisitor$/;"	c
+ToComment	headfiles/tinyxml.h	/^	virtual		  TiXmlComment*  ToComment()		{ return this; } \/\/\/< Cast to a more defined type. Will return null not of the requested type.$/;"	f	class:TiXmlComment
+ToComment	headfiles/tinyxml.h	/^	virtual TiXmlComment*           ToComment()     { return 0; } \/\/\/< Cast to a more defined type. Will return null if not of the requested type.$/;"	f	class:TiXmlNode
+ToComment	headfiles/tinyxml.h	/^	virtual const TiXmlComment*     ToComment()     const { return 0; } \/\/\/< Cast to a more defined type. Will return null if not of the requested type.$/;"	f	class:TiXmlNode
+ToComment	headfiles/tinyxml.h	/^	virtual const TiXmlComment*  ToComment() const	{ return this; } \/\/\/< Cast to a more defined type. Will return null not of the requested type.$/;"	f	class:TiXmlComment
+ToDeclaration	headfiles/tinyxml.h	/^	virtual TiXmlDeclaration*       ToDeclaration()       { return this; } \/\/\/< Cast to a more defined type. Will return null not of the requested type.$/;"	f	class:TiXmlDeclaration
+ToDeclaration	headfiles/tinyxml.h	/^	virtual TiXmlDeclaration*       ToDeclaration() { return 0; } \/\/\/< Cast to a more defined type. Will return null if not of the requested type.$/;"	f	class:TiXmlNode
+ToDeclaration	headfiles/tinyxml.h	/^	virtual const TiXmlDeclaration* ToDeclaration() const { return 0; } \/\/\/< Cast to a more defined type. Will return null if not of the requested type.$/;"	f	class:TiXmlNode
+ToDeclaration	headfiles/tinyxml.h	/^	virtual const TiXmlDeclaration* ToDeclaration() const { return this; } \/\/\/< Cast to a more defined type. Will return null not of the requested type.$/;"	f	class:TiXmlDeclaration
+ToDocument	headfiles/tinyxml.h	/^	virtual TiXmlDocument*          ToDocument()          { return this; } \/\/\/< Cast to a more defined type. Will return null not of the requested type.$/;"	f	class:TiXmlDocument
+ToDocument	headfiles/tinyxml.h	/^	virtual TiXmlDocument*          ToDocument()    { return 0; } \/\/\/< Cast to a more defined type. Will return null if not of the requested type.$/;"	f	class:TiXmlNode
+ToDocument	headfiles/tinyxml.h	/^	virtual const TiXmlDocument*    ToDocument()    const { return 0; } \/\/\/< Cast to a more defined type. Will return null if not of the requested type.$/;"	f	class:TiXmlNode
+ToDocument	headfiles/tinyxml.h	/^	virtual const TiXmlDocument*    ToDocument()    const { return this; } \/\/\/< Cast to a more defined type. Will return null not of the requested type.$/;"	f	class:TiXmlDocument
+ToElement	headfiles/tinyxml.h	/^	TiXmlElement* ToElement() const		{ return ( ( node && node->ToElement() ) ? node->ToElement() : 0 ); }$/;"	f	class:TiXmlHandle
+ToElement	headfiles/tinyxml.h	/^	virtual TiXmlElement*           ToElement()	          { return this; } \/\/\/< Cast to a more defined type. Will return null not of the requested type.$/;"	f	class:TiXmlElement
+ToElement	headfiles/tinyxml.h	/^	virtual TiXmlElement*           ToElement()	    { return 0; } \/\/\/< Cast to a more defined type. Will return null if not of the requested type.$/;"	f	class:TiXmlNode
+ToElement	headfiles/tinyxml.h	/^	virtual const TiXmlElement*     ToElement()     const { return 0; } \/\/\/< Cast to a more defined type. Will return null if not of the requested type.$/;"	f	class:TiXmlNode
+ToElement	headfiles/tinyxml.h	/^	virtual const TiXmlElement*     ToElement()     const { return this; } \/\/\/< Cast to a more defined type. Will return null not of the requested type.$/;"	f	class:TiXmlElement
+ToLower	headfiles/tinyxml.h	/^	inline static int ToLower( int v, TiXmlEncoding encoding )$/;"	f	class:TiXmlBase
+ToName	headfiles/chatServer.h	/^	string ToName;$/;"	m	class:chatServer
+ToName	headfiles/fileServer.h	/^	string ToName;$/;"	m	class:fileServer
+ToNode	headfiles/tinyxml.h	/^	TiXmlNode* ToNode() const			{ return node; } $/;"	f	class:TiXmlHandle
+ToText	headfiles/tinyxml.h	/^	TiXmlText* ToText() const			{ return ( ( node && node->ToText() ) ? node->ToText() : 0 ); }$/;"	f	class:TiXmlHandle
+ToText	headfiles/tinyxml.h	/^	virtual TiXmlText*	            ToText()        { return 0; } \/\/\/< Cast to a more defined type. Will return null if not of the requested type.$/;"	f	class:TiXmlNode
+ToText	headfiles/tinyxml.h	/^	virtual TiXmlText*       ToText()       { return this; } \/\/\/< Cast to a more defined type. Will return null not of the requested type.$/;"	f	class:TiXmlText
+ToText	headfiles/tinyxml.h	/^	virtual const TiXmlText*        ToText()        const { return 0; } \/\/\/< Cast to a more defined type. Will return null if not of the requested type.$/;"	f	class:TiXmlNode
+ToText	headfiles/tinyxml.h	/^	virtual const TiXmlText* ToText() const { return this; } \/\/\/< Cast to a more defined type. Will return null not of the requested type.$/;"	f	class:TiXmlText
+ToUnknown	headfiles/tinyxml.h	/^	TiXmlUnknown* ToUnknown() const		{ return ( ( node && node->ToUnknown() ) ? node->ToUnknown() : 0 ); }$/;"	f	class:TiXmlHandle
+ToUnknown	headfiles/tinyxml.h	/^	virtual TiXmlUnknown*           ToUnknown()				{ return this; } \/\/\/< Cast to a more defined type. Will return null not of the requested type.$/;"	f	class:TiXmlUnknown
+ToUnknown	headfiles/tinyxml.h	/^	virtual TiXmlUnknown*           ToUnknown()	    { return 0; } \/\/\/< Cast to a more defined type. Will return null if not of the requested type.$/;"	f	class:TiXmlNode
+ToUnknown	headfiles/tinyxml.h	/^	virtual const TiXmlUnknown*     ToUnknown()     const	{ return this; } \/\/\/< Cast to a more defined type. Will return null not of the requested type.$/;"	f	class:TiXmlUnknown
+ToUnknown	headfiles/tinyxml.h	/^	virtual const TiXmlUnknown*     ToUnknown()     const { return 0; } \/\/\/< Cast to a more defined type. Will return null if not of the requested type.$/;"	f	class:TiXmlNode
+Type	headfiles/tinyxml.h	/^	int Type() const	{ return type; }$/;"	f	class:TiXmlNode
+Unknown	headfiles/tinyxml.h	/^	TiXmlUnknown* Unknown() const	{ return ToUnknown(); }$/;"	f	class:TiXmlHandle
+UserName	headfiles/contacts.h	/^	string UserName;$/;"	m	class:Contacts
+UserName	headfiles/contacts.h	/^	string UserName;$/;"	m	class:friendData
+UserName	headfiles/friendServer.h	/^	string UserName;$/;"	m	class:friendsServer
+UserName	headfiles/logInServer.h	/^	string UserName;$/;"	m	class:logInServer
+UserName	headfiles/registerServer.h	/^	string UserName;$/;"	m	class:registerServer
+Value	headfiles/tinyxml.h	/^	const char *Value() const { return value.c_str (); }$/;"	f	class:TiXmlNode
+Value	headfiles/tinyxml.h	/^	const char*		Value() const		{ return value.c_str(); }		\/\/\/< Return the value of this attribute.$/;"	f	class:TiXmlAttribute
+ValueStr	headfiles/tinyxml.h	/^	const std::string& ValueStr() const	{ return value; }				\/\/\/< Return the value of this attribute.$/;"	f	class:TiXmlAttribute
+ValueStr	headfiles/tinyxml.h	/^	const std::string& ValueStr() const { return value; }$/;"	f	class:TiXmlNode
+ValueTStr	headfiles/tinyxml.h	/^	const TIXML_STRING& ValueTStr() const { return value; }$/;"	f	class:TiXmlNode
+Version	headfiles/tinyxml.h	/^	const char *Version() const			{ return version.c_str (); }$/;"	f	class:TiXmlDeclaration
+Visit	headfiles/tinyxml.h	/^	virtual bool Visit( const TiXmlComment& \/*comment*\/ )			{ return true; }$/;"	f	class:TiXmlVisitor
+Visit	headfiles/tinyxml.h	/^	virtual bool Visit( const TiXmlDeclaration& \/*declaration*\/ )	{ return true; }$/;"	f	class:TiXmlVisitor
+Visit	headfiles/tinyxml.h	/^	virtual bool Visit( const TiXmlText& \/*text*\/ )					{ return true; }$/;"	f	class:TiXmlVisitor
+Visit	headfiles/tinyxml.h	/^	virtual bool Visit( const TiXmlUnknown& \/*unknown*\/ )			{ return true; }$/;"	f	class:TiXmlVisitor
+Visit	sourcefiles/tinyxml.cpp	/^bool TiXmlPrinter::Visit( const TiXmlComment& comment )$/;"	f	class:TiXmlPrinter
+Visit	sourcefiles/tinyxml.cpp	/^bool TiXmlPrinter::Visit( const TiXmlDeclaration& declaration )$/;"	f	class:TiXmlPrinter
+Visit	sourcefiles/tinyxml.cpp	/^bool TiXmlPrinter::Visit( const TiXmlText& text )$/;"	f	class:TiXmlPrinter
+Visit	sourcefiles/tinyxml.cpp	/^bool TiXmlPrinter::Visit( const TiXmlUnknown& unknown )$/;"	f	class:TiXmlPrinter
+VisitEnter	headfiles/tinyxml.h	/^	virtual bool VisitEnter( const TiXmlDocument& \/*doc*\/ )			{ return true; }$/;"	f	class:TiXmlVisitor
+VisitEnter	headfiles/tinyxml.h	/^	virtual bool VisitEnter( const TiXmlElement& \/*element*\/, const TiXmlAttribute* \/*firstAttribute*\/ )	{ return true; }$/;"	f	class:TiXmlVisitor
+VisitEnter	sourcefiles/tinyxml.cpp	/^bool TiXmlPrinter::VisitEnter( const TiXmlDocument& )$/;"	f	class:TiXmlPrinter
+VisitEnter	sourcefiles/tinyxml.cpp	/^bool TiXmlPrinter::VisitEnter( const TiXmlElement& element, const TiXmlAttribute* firstAttribute )$/;"	f	class:TiXmlPrinter
+VisitExit	headfiles/tinyxml.h	/^	virtual bool VisitExit( const TiXmlDocument& \/*doc*\/ )			{ return true; }$/;"	f	class:TiXmlVisitor
+VisitExit	headfiles/tinyxml.h	/^	virtual bool VisitExit( const TiXmlElement& \/*element*\/ )		{ return true; }$/;"	f	class:TiXmlVisitor
+VisitExit	sourcefiles/tinyxml.cpp	/^bool TiXmlPrinter::VisitExit( const TiXmlDocument& )$/;"	f	class:TiXmlPrinter
+VisitExit	sourcefiles/tinyxml.cpp	/^bool TiXmlPrinter::VisitExit( const TiXmlElement& element )$/;"	f	class:TiXmlPrinter
+_ACCOUNT_DATABASE_H_	headfiles/accountDatabase.h	3;"	d
+_CONTACTS_H_	headfiles/contacts.h	3;"	d
+_FRIEND_SERVER_H_	headfiles/friendServer.h	3;"	d
+_LOGINSERVER_H_	headfiles/logInServer.h	3;"	d
+_MESSAGE_H_	headfiles/message.h	3;"	d
+_MYTHREADPOOL_H_	headfiles/myThreadPool.h	3;"	d
+_REGISTERSERVER_H_	headfiles/registerServer.h	3;"	d
+_SERVERHANDLER_H_	headfiles/serverHandler.h	3;"	d
+_SERVER_H_	headfiles/server.h	3;"	d
+_XMLHANDLER_H_	headfiles/xmlHandler.h	3;"	d
+account	headfiles/serverHandler.h	/^	accountDatabase account;$/;"	m	class:serverHandler
+accountDatabase	headfiles/accountDatabase.h	/^class accountDatabase$/;"	c
+accountDatabase	sourcefiles/accountDatabase.cpp	/^accountDatabase::accountDatabase()$/;"	f	class:accountDatabase
+addAccount	sourcefiles/accountDatabase.cpp	/^bool accountDatabase::addAccount(string username, string password)$/;"	f	class:accountDatabase
+addChild	sourcefiles/chatServer.cpp	/^TiXmlElement chatServer::addChild(const string & tagName, const string & text, TiXmlElement & Aparent)$/;"	f	class:chatServer
+addChild	sourcefiles/friendServer.cpp	/^TiXmlElement friendsServer::addChild(const string & tagName, const string & text, TiXmlElement & Aparent)$/;"	f	class:friendsServer
+addChild	sourcefiles/logInServer.cpp	/^TiXmlElement logInServer::addChild(const string & tagName, const string & text, TiXmlElement & Aparent)$/;"	f	class:logInServer
+addChild	sourcefiles/message.cpp	/^TiXmlElement Message::addChild(TiXmlElement * Aparent, const string & tagName, const string & text)$/;"	f	class:Message
+addChild	sourcefiles/registerServer.cpp	/^TiXmlElement registerServer::addChild(const string & tagName, const string & text, TiXmlElement & Aparent)$/;"	f	class:registerServer
+addElement	sourcefiles/xmlHandler.cpp	/^TiXmlElement xmlHandler::addElement(const string & name)$/;"	f	class:xmlHandler
+addFriend	sourcefiles/accountDatabase.cpp	/^bool accountDatabase::addFriend(string username, string friendname)$/;"	f	class:accountDatabase
+addNewAccount	sourcefiles/registerServer.cpp	/^bool registerServer::addNewAccount()$/;"	f	class:registerServer
+addNewFriend	sourcefiles/friendServer.cpp	/^bool friendsServer::addNewFriend(const string &friendName)$/;"	f	class:friendsServer
+addTask	sourcefiles/myThreadPool.cpp	/^void MyThreadPool::addTask(server * task)$/;"	f	class:MyThreadPool
+addThreads	sourcefiles/myThreadPool.cpp	/^bool MyThreadPool::addThreads(int numToAdd)$/;"	f	class:MyThreadPool
+append	sourcefiles/tinystr.cpp	/^TiXmlString& TiXmlString::append(const char* str, size_type len)$/;"	f	class:TiXmlString
+askForPermission	sourcefiles/fileServer.cpp	/^void fileServer::askForPermission()$/;"	f	class:fileServer
+assign	sourcefiles/tinystr.cpp	/^TiXmlString& TiXmlString::assign(const char* str, size_type len)$/;"	f	class:TiXmlString
+at	headfiles/tinystr.h	/^	const char& at (size_type index) const$/;"	f	class:TiXmlString
+attribute	sourcefiles/xmlHandler.cpp	/^string xmlHandler::attribute(const string & name) const$/;"	f	class:xmlHandler
+attributeSet	headfiles/tinyxml.h	/^	TiXmlAttributeSet attributeSet;$/;"	m	class:TiXmlElement
+body	sourcefiles/message.cpp	/^string Message::body() const$/;"	f	class:Message
+buffer	headfiles/tinyxml.h	/^	TIXML_STRING buffer;$/;"	m	class:TiXmlPrinter
+c_str	headfiles/tinystr.h	/^	const char * c_str () const { return rep_->str; }$/;"	f	class:TiXmlString
+capacity	headfiles/tinystr.h	/^		size_type size, capacity;$/;"	m	struct:TiXmlString::Rep
+capacity	headfiles/tinystr.h	/^	size_type capacity () const { return rep_->capacity; }$/;"	f	class:TiXmlString
+cdata	headfiles/tinyxml.h	/^	bool cdata;			\/\/ true if this should be input and output as a CDATA style text element$/;"	m	class:TiXmlText
+changeThreadNumTo	sourcefiles/serverHandler.cpp	/^void serverHandler::changeThreadNumTo(int num)$/;"	f	class:serverHandler
+chatServer	headfiles/chatServer.h	/^class chatServer :public server$/;"	c
+chatServer	sourcefiles/chatServer.cpp	/^chatServer::chatServer(Message messageInfo, SOCKET server, unordered_map<string, string>* accountData, accountDatabase account, unordered_map<string, SOCKET> *clientList):$/;"	f	class:chatServer
+chr	headfiles/tinyxml.h	/^		char		    chr;$/;"	m	struct:TiXmlBase::Entity
+clear	headfiles/tinystr.h	/^	void clear ()$/;"	f	class:TiXmlString
+clientTest	ClientTest.cpp	/^class clientTest$/;"	c	file:
+col	headfiles/tinyxml.h	/^	int col;	\/\/ 0 based.$/;"	m	struct:TiXmlCursor
+condenseWhiteSpace	headfiles/tinyxml.h	/^	static bool condenseWhiteSpace;$/;"	m	class:TiXmlBase
+condenseWhiteSpace	sourcefiles/tinyxml.cpp	/^bool TiXmlBase::condenseWhiteSpace = true;$/;"	m	class:TiXmlBase	file:
+const	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+const	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+createElement	sourcefiles/xmlHandler.cpp	/^TiXmlElement xmlHandler::createElement(const string & name)$/;"	f	class:xmlHandler
+createTextNode	sourcefiles/xmlHandler.cpp	/^TiXmlText xmlHandler::createTextNode(const string & data)$/;"	f	class:xmlHandler
+cursor	sourcefiles/tinyxmlparser.cpp	/^	TiXmlCursor		cursor;$/;"	m	class:TiXmlParsingData	file:
+data	headfiles/tinystr.h	/^	const char * data () const { return rep_->str; }$/;"	f	class:TiXmlString
+deleteAccount	sourcefiles/accountDatabase.cpp	/^bool accountDatabase::deleteAccount(string username, string password)\/\/注销一个账户$/;"	f	class:accountDatabase
+deleteFriend	sourcefiles/accountDatabase.cpp	/^bool accountDatabase::deleteFriend(string username, string friendname)$/;"	f	class:accountDatabase
+deleteFriend	sourcefiles/friendServer.cpp	/^bool friendsServer::deleteFriend(const string &friendName)$/;"	f	class:friendsServer
+deleteThreads	sourcefiles/myThreadPool.cpp	/^bool MyThreadPool::deleteThreads(int numToDelete)$/;"	f	class:MyThreadPool
+depth	headfiles/tinyxml.h	/^	int depth;$/;"	m	class:TiXmlPrinter
+doRecv	server/MyEpollPort.cpp	/^void myEpollServer::doRecv(string msgRecved,int sockFd)$/;"	f	class:myEpollServer
+doRecv	sourcefiles/MyEpollPort.cpp	/^void myEpollServer::doRecv(string msgRecved,int sockFd)$/;"	f	class:myEpollServer
+document	headfiles/tinyxml.h	/^	TiXmlDocument*	document;	\/\/ A pointer back to a document, for error reporting.$/;"	m	class:TiXmlAttribute
+document	sourcefiles/xmlHandler.cpp	/^TiXmlDocument xmlHandler::document() const$/;"	f	class:xmlHandler
+element	sourcefiles/xmlHandler.cpp	/^TiXmlElement* xmlHandler::element() const$/;"	f	class:xmlHandler
+empty	headfiles/tinystr.h	/^	bool empty () const { return rep_->size == 0; }$/;"	f	class:TiXmlString
+encoding	headfiles/tinyxml.h	/^	TIXML_STRING encoding;$/;"	m	class:TiXmlDeclaration
+entity	headfiles/tinyxml.h	/^	static Entity entity[ NUM_ENTITY ];$/;"	m	class:TiXmlBase
+entity	sourcefiles/tinyxmlparser.cpp	/^TiXmlBase::Entity TiXmlBase::entity[ TiXmlBase::NUM_ENTITY ] = $/;"	m	class:TiXmlBase	file:
+error	headfiles/tinyxml.h	/^	bool error;$/;"	m	class:TiXmlDocument
+errorDesc	headfiles/tinyxml.h	/^	TIXML_STRING errorDesc;$/;"	m	class:TiXmlDocument
+errorId	headfiles/tinyxml.h	/^	int  errorId;$/;"	m	class:TiXmlDocument
+errorLocation	headfiles/tinyxml.h	/^	TiXmlCursor errorLocation;$/;"	m	class:TiXmlDocument
+errorString	headfiles/tinyxml.h	/^	static const char* errorString[ TIXML_ERROR_STRING_COUNT ];$/;"	m	class:TiXmlBase
+errorString	sourcefiles/tinyxmlerror.cpp	/^const char* TiXmlBase::errorString[ TiXmlBase::TIXML_ERROR_STRING_COUNT ] =$/;"	m	class:TiXmlBase	file:
+features	server/CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v
+features	server/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v
+features	sourcefiles/CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v
+features	sourcefiles/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v
+fileServer	headfiles/fileServer.h	/^class fileServer:public server$/;"	c
+fileServer	sourcefiles/fileServer.cpp	/^fileServer::fileServer(Message messageInfo,SOCKET server, unordered_map<string,string> *accountData, accountDatabase account, unordered_map<string,SOCKET> *clientList):MessageInfo(messageInfo),ServerSocket(server),AccountData(accountData),Account(account),ClientList(clientList)$/;"	f	class:fileServer
+fileTransfer	headfiles/fileTrans.h	/^class fileTransfer$/;"	c
+find	headfiles/tinystr.h	/^	size_type find (char lookup) const$/;"	f	class:TiXmlString
+find	headfiles/tinystr.h	/^	size_type find (char tofind, size_type offset) const$/;"	f	class:TiXmlString
+findChild	sourcefiles/chatServer.cpp	/^TiXmlElement chatServer::findChild(const TiXmlElement & Aparent, const string & tagName) const$/;"	f	class:chatServer
+findChild	sourcefiles/friendServer.cpp	/^TiXmlElement friendsServer::findChild(const TiXmlElement & Aparent, const string & tagName) const$/;"	f	class:friendsServer
+findChild	sourcefiles/logInServer.cpp	/^TiXmlElement logInServer::findChild(const TiXmlElement & Aparent, const string & tagName) const$/;"	f	class:logInServer
+findChild	sourcefiles/message.cpp	/^TiXmlElement Message::findChild(const TiXmlElement * Aparent, const string & tagName) const$/;"	f	class:Message
+findChild	sourcefiles/registerServer.cpp	/^TiXmlElement registerServer::findChild(const TiXmlElement & Aparent, const string & tagName) const$/;"	f	class:registerServer
+findElement	sourcefiles/xmlHandler.cpp	/^TiXmlElement xmlHandler::findElement(const TiXmlElement & AParent, const string & TagName)$/;"	f	class:xmlHandler
+finish	headfiles/tinystr.h	/^	char* finish() const { return rep_->str + rep_->size; }$/;"	f	class:TiXmlString
+firstChild	headfiles/tinyxml.h	/^	TiXmlNode*		firstChild;$/;"	m	class:TiXmlNode
+firstElement	sourcefiles/xmlHandler.cpp	/^TiXmlElement xmlHandler::firstElement(const string & TagName)$/;"	f	class:xmlHandler
+friendData	headfiles/contacts.h	/^class friendData$/;"	c
+friendData	sourcefiles/contacts.cpp	/^friendData::friendData()$/;"	f	class:friendData
+friendData	sourcefiles/contacts.cpp	/^friendData::friendData(string username, string remarkName, bool isOnline):UserName(username),RemarkName(remarkName),IsOnline(isOnline)$/;"	f	class:friendData
+friendsServer	headfiles/friendServer.h	/^class friendsServer:public server$/;"	c
+friendsServer	sourcefiles/friendServer.cpp	/^friendsServer::friendsServer(Message friendInfo, SOCKET server, unordered_map<string, string>* accountData, accountDatabase account):$/;"	f	class:friendsServer
+from	sourcefiles/message.cpp	/^string Message::from() const$/;"	f	class:Message
+from	sourcefiles/xmlHandler.cpp	/^string xmlHandler::from() const$/;"	f	class:xmlHandler
+getAccount	sourcefiles/accountDatabase.cpp	/^bool accountDatabase::getAccount()$/;"	f	class:accountDatabase
+getFriends	sourcefiles/accountDatabase.cpp	/^unordered_map<string, friendData> accountDatabase::getFriends(string username)$/;"	f	class:accountDatabase
+getFriendsList	sourcefiles/friendServer.cpp	/^bool friendsServer::getFriendsList()$/;"	f	class:friendsServer
+getIPAddress	sourcefiles/fileServer.cpp	/^void fileServer::getIPAddress()$/;"	f	class:fileServer
+getMsgToSend	sourcefiles/chatServer.cpp	/^string chatServer::getMsgToSend()$/;"	f	class:chatServer
+getUserData	sourcefiles/serverHandler.cpp	/^bool serverHandler::getUserData()$/;"	f	class:serverHandler
+getUserName	sourcefiles/logInServer.cpp	/^string logInServer::getUserName()$/;"	f	class:logInServer
+handleChat	sourcefiles/serverHandler.cpp	/^bool serverHandler::handleChat(const Message & msg, SOCKET serverSocket, unordered_map<string, SOCKET>* clientList)$/;"	f	class:serverHandler
+handleFile	sourcefiles/serverHandler.cpp	/^bool serverHandler::handleFile(const Message &msg,SOCKET serverSocket, unordered_map<string,SOCKET> *clientList)$/;"	f	class:serverHandler
+handleFriendList	sourcefiles/serverHandler.cpp	/^bool serverHandler::handleFriendList(const Message & msg, SOCKET serverSocket)$/;"	f	class:serverHandler
+handleLogIn	sourcefiles/serverHandler.cpp	/^bool serverHandler::handleLogIn(const Message & msg, SOCKET serverSocket, unordered_map<string, SOCKET> *clientList)$/;"	f	class:serverHandler
+handleRegister	sourcefiles/serverHandler.cpp	/^bool serverHandler::handleRegister(const Message & msg, SOCKET serverSocket)$/;"	f	class:serverHandler
+hasAttribute	sourcefiles/xmlHandler.cpp	/^bool xmlHandler::hasAttribute(const string & name)$/;"	f	class:xmlHandler
+id	sourcefiles/message.cpp	/^string Message::id() const$/;"	f	class:Message
+id	sourcefiles/xmlHandler.cpp	/^string xmlHandler::id() const$/;"	f	class:xmlHandler
+indent	headfiles/tinyxml.h	/^	TIXML_STRING indent;$/;"	m	class:TiXmlPrinter
+info_arch	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_dialect_default	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v
+info_language_dialect_default	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_language_dialect_default	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v
+info_language_dialect_default	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_platform	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+init	headfiles/tinystr.h	/^	void init(size_type sz) { init(sz, sz); }$/;"	f	class:TiXmlString
+init	headfiles/tinystr.h	/^	void init(size_type sz, size_type cap)$/;"	f	class:TiXmlString
+initDatabase	sourcefiles/accountDatabase.cpp	/^bool accountDatabase::initDatabase()$/;"	f	class:accountDatabase
+initThreadPool	sourcefiles/serverHandler.cpp	/^bool serverHandler::initThreadPool()$/;"	f	class:serverHandler
+initializeEpoll	server/MyEpollPort.cpp	/^bool myEpollServer::initializeEpoll(int maxSize)$/;"	f	class:myEpollServer
+initializeEpoll	sourcefiles/MyEpollPort.cpp	/^bool myEpollServer::initializeEpoll(int maxSize)$/;"	f	class:myEpollServer
+initializeServerSocket	server/MyEpollPort.cpp	/^bool myEpollServer::initializeServerSocket()$/;"	f	class:myEpollServer
+initializeServerSocket	sourcefiles/MyEpollPort.cpp	/^bool myEpollServer::initializeServerSocket()$/;"	f	class:myEpollServer
+isError	sourcefiles/xmlHandler.cpp	/^bool xmlHandler::isError()$/;"	f	class:xmlHandler
+isNull	sourcefiles/xmlHandler.cpp	/^bool xmlHandler::isNull()$/;"	f	class:xmlHandler
+isResult	sourcefiles/xmlHandler.cpp	/^bool xmlHandler::isResult()$/;"	f	class:xmlHandler
+isUserNameRegistered	sourcefiles/logInServer.cpp	/^bool logInServer::isUserNameRegistered()$/;"	f	class:logInServer
+isUserNameRegistered	sourcefiles/registerServer.cpp	/^bool registerServer::isUserNameRegistered()$/;"	f	class:registerServer
+kind	sourcefiles/xmlHandler.cpp	/^string xmlHandler::kind() const$/;"	f	class:xmlHandler
+lastChild	headfiles/tinyxml.h	/^	TiXmlNode*		lastChild;$/;"	m	class:TiXmlNode
+length	headfiles/tinystr.h	/^	size_type length () const { return rep_->size; }$/;"	f	class:TiXmlString
+lineBreak	headfiles/tinyxml.h	/^	TIXML_STRING lineBreak;$/;"	m	class:TiXmlPrinter
+location	headfiles/tinyxml.h	/^	TiXmlCursor location;$/;"	m	class:TiXmlBase
+logInServer	headfiles/logInServer.h	/^class logInServer:public server$/;"	c
+logInServer	sourcefiles/logInServer.cpp	/^logInServer::logInServer(Message logInInfo, SOCKET server, unordered_map<string, string>* accountData, accountDatabase account, unordered_map<string, SOCKET> *clientList):$/;"	f	class:logInServer
+main	Client/ClientTest.cpp	/^int main(void)$/;"	f
+main	Client/Test.cpp	/^int main(int argc,char **argv)$/;"	f
+main	Client/server.cpp	/^int main(int argc,char **argv)$/;"	f
+main	ClientTest.cpp	/^int main(void)$/;"	f
+main	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	server/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	server/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	server/main.cpp	/^int main()$/;"	f
+main	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	sourcefiles/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	sourcefiles/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	sourcefiles/main.cpp	/^int main()$/;"	f
+myEpollServer	headfiles/MyEpollPort.h	/^class myEpollServer$/;"	c
+myEpollServer	server/MyEpollPort.h	/^	myEpollServer(){};$/;"	f	class:myEpollServer
+myEpollServer	server/MyEpollPort.h	/^class myEpollServer$/;"	c
+myEpollServer	sourcefiles/MyEpollPort.cpp	/^myEpollServer::myEpollServer(int serverPort):ServerPort(serverPort),ServerHandler(NULL),ClientList(NULL)$/;"	f	class:myEpollServer
+myMutex	headfiles/myThreadPool.h	/^	mutex myMutex;$/;"	m	class:MyThreadPool
+my_fun	Client/server.cpp	/^void my_fun(char *p)$/;"	f
+name	headfiles/tinyxml.h	/^	TIXML_STRING name;$/;"	m	class:TiXmlAttribute
+next	headfiles/tinyxml.h	/^	TiXmlAttribute*	next;$/;"	m	class:TiXmlAttribute
+next	headfiles/tinyxml.h	/^	TiXmlNode*		next;$/;"	m	class:TiXmlNode
+node	headfiles/tinyxml.h	/^	TiXmlNode* node;$/;"	m	class:TiXmlHandle
+npos	headfiles/tinystr.h	/^	static const size_type npos; \/\/ = -1;$/;"	m	class:TiXmlString
+npos	sourcefiles/tinystr.cpp	/^const TiXmlString::size_type TiXmlString::npos = static_cast< TiXmlString::size_type >(-1);$/;"	m	class:TiXmlString	file:
+nullrep_	headfiles/tinystr.h	/^	static Rep nullrep_;$/;"	m	class:TiXmlString
+nullrep_	sourcefiles/tinystr.cpp	/^TiXmlString::Rep TiXmlString::nullrep_ = { 0, 0, { '\\0' } };$/;"	m	class:TiXmlString	file:
+operator !=	headfiles/tinystr.h	/^inline bool operator != (const TiXmlString & a, const TiXmlString & b) { return !(a == b); }$/;"	f
+operator !=	headfiles/tinystr.h	/^inline bool operator != (const TiXmlString & a, const char* b) { return !(a == b); }$/;"	f
+operator !=	headfiles/tinystr.h	/^inline bool operator != (const char* a, const TiXmlString & b) { return !(b == a); }$/;"	f
+operator +	sourcefiles/tinystr.cpp	/^TiXmlString operator + (const TiXmlString & a, const TiXmlString & b)$/;"	f
+operator +	sourcefiles/tinystr.cpp	/^TiXmlString operator + (const TiXmlString & a, const char* b)$/;"	f
+operator +	sourcefiles/tinystr.cpp	/^TiXmlString operator + (const char* a, const TiXmlString & b)$/;"	f
+operator +=	headfiles/tinystr.h	/^	TiXmlString& operator += (char single)$/;"	f	class:TiXmlString
+operator +=	headfiles/tinystr.h	/^	TiXmlString& operator += (const TiXmlString & suffix)$/;"	f	class:TiXmlString
+operator +=	headfiles/tinystr.h	/^	TiXmlString& operator += (const char * suffix)$/;"	f	class:TiXmlString
+operator <	headfiles/tinystr.h	/^inline bool operator < (const TiXmlString & a, const TiXmlString & b)$/;"	f
+operator <	headfiles/tinyxml.h	/^	bool operator<( const TiXmlAttribute& rhs )	 const { return name < rhs.name; }$/;"	f	class:TiXmlAttribute
+operator <<	headfiles/tinystr.h	/^	TiXmlOutStream & operator << (const TiXmlString & in)$/;"	f	class:TiXmlOutStream
+operator <<	headfiles/tinystr.h	/^	TiXmlOutStream & operator << (const char * in)$/;"	f	class:TiXmlOutStream
+operator <<	sourcefiles/contacts.cpp	/^ostream & operator<<(ostream & os, const Contacts & contact)$/;"	f
+operator <<	sourcefiles/contacts.cpp	/^ostream & operator<<(ostream & os, const friendData & friends)$/;"	f
+operator <<	sourcefiles/tinyxml.cpp	/^std::ostream& operator<< (std::ostream & out, const TiXmlNode & base)$/;"	f
+operator <<	sourcefiles/tinyxml.cpp	/^std::string& operator<< (std::string& out, const TiXmlNode& base )$/;"	f
+operator <=	headfiles/tinystr.h	/^inline bool operator <= (const TiXmlString & a, const TiXmlString & b) { return !(b < a); }$/;"	f
+operator =	headfiles/tinystr.h	/^	TiXmlString& operator = (const TiXmlString & copy)$/;"	f	class:TiXmlString
+operator =	headfiles/tinystr.h	/^	TiXmlString& operator = (const char * copy)$/;"	f	class:TiXmlString
+operator =	headfiles/tinyxml.h	/^	TiXmlHandle operator=( const TiXmlHandle& ref ) { if ( &ref != this ) this->node = ref.node; return *this; }$/;"	f	class:TiXmlHandle
+operator =	headfiles/tinyxml.h	/^	TiXmlText& operator=( const TiXmlText& base )							 	{ base.CopyTo( this ); return *this; }$/;"	f	class:TiXmlText
+operator =	headfiles/tinyxml.h	/^	TiXmlUnknown& operator=( const TiXmlUnknown& copy )										{ copy.CopyTo( this ); return *this; }$/;"	f	class:TiXmlUnknown
+operator =	sourcefiles/tinyxml.cpp	/^TiXmlComment& TiXmlComment::operator=( const TiXmlComment& base )$/;"	f	class:TiXmlComment
+operator =	sourcefiles/tinyxml.cpp	/^TiXmlDeclaration& TiXmlDeclaration::operator=( const TiXmlDeclaration& copy )$/;"	f	class:TiXmlDeclaration
+operator =	sourcefiles/tinyxml.cpp	/^TiXmlDocument& TiXmlDocument::operator=( const TiXmlDocument& copy )$/;"	f	class:TiXmlDocument
+operator =	sourcefiles/tinyxml.cpp	/^TiXmlElement& TiXmlElement::operator=( const TiXmlElement& base )$/;"	f	class:TiXmlElement
+operator ==	headfiles/tinystr.h	/^inline bool operator == (const TiXmlString & a, const TiXmlString & b)$/;"	f
+operator ==	headfiles/tinystr.h	/^inline bool operator == (const TiXmlString & a, const char* b) { return strcmp(a.c_str(), b) == 0; }$/;"	f
+operator ==	headfiles/tinystr.h	/^inline bool operator == (const char* a, const TiXmlString & b) { return b == a; }$/;"	f
+operator ==	headfiles/tinyxml.h	/^	bool operator==( const TiXmlAttribute& rhs ) const { return rhs.name == name; }$/;"	f	class:TiXmlAttribute
+operator >	headfiles/tinystr.h	/^inline bool operator >  (const TiXmlString & a, const TiXmlString & b) { return b < a; }$/;"	f
+operator >	headfiles/tinyxml.h	/^	bool operator>( const TiXmlAttribute& rhs )  const { return name > rhs.name; }$/;"	f	class:TiXmlAttribute
+operator >=	headfiles/tinystr.h	/^inline bool operator >= (const TiXmlString & a, const TiXmlString & b) { return !(a < b); }$/;"	f
+operator >>	sourcefiles/contacts.cpp	/^istream & operator>>(istream & is, Contacts & contact)$/;"	f
+operator >>	sourcefiles/contacts.cpp	/^istream & operator>>(istream & is, friendData & friends)$/;"	f
+operator >>	sourcefiles/serverHandler.cpp	/^istream & operator>>(istream & is, unordered_map<string, string>* AccountData)$/;"	f
+operator >>	sourcefiles/tinyxml.cpp	/^std::istream& operator>> (std::istream & in, TiXmlNode & base)$/;"	f
+operator []	headfiles/tinystr.h	/^	char& operator [] (size_type index) const$/;"	f	class:TiXmlString
+parent	headfiles/tinyxml.h	/^	TiXmlNode*		parent;$/;"	m	class:TiXmlNode
+password	sourcefiles/message.cpp	/^string Message::password() const$/;"	f	class:Message
+prev	headfiles/tinyxml.h	/^	TiXmlAttribute*	prev;$/;"	m	class:TiXmlAttribute
+prev	headfiles/tinyxml.h	/^	TiXmlNode*		prev;$/;"	m	class:TiXmlNode
+qnxnto	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	server/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+quit	headfiles/tinystr.h	/^	void quit()$/;"	f	class:TiXmlString
+registerServer	headfiles/registerServer.h	/^class registerServer:public server$/;"	c
+registerServer	sourcefiles/registerServer.cpp	/^registerServer::registerServer(Message registerInfo, SOCKET serverSocket, unordered_map<string, string>* accountData, accountDatabase account):$/;"	f	class:registerServer
+rep_	headfiles/tinystr.h	/^	Rep * rep_;$/;"	m	class:TiXmlString
+reserve	sourcefiles/tinystr.cpp	/^void TiXmlString::reserve (size_type cap)$/;"	f	class:TiXmlString
+responseToClient	sourcefiles/chatServer.cpp	/^void chatServer::responseToClient()$/;"	f	class:chatServer
+responseToClient	sourcefiles/fileServer.cpp	/^void fileServer::responseToClient()$/;"	f	class:fileServer
+responseToClient	sourcefiles/friendServer.cpp	/^void friendsServer::responseToClient()$/;"	f	class:friendsServer
+responseToClient	sourcefiles/logInServer.cpp	/^void logInServer::responseToClient()$/;"	f	class:logInServer
+responseToClient	sourcefiles/registerServer.cpp	/^void registerServer::responseToClient()$/;"	f	class:registerServer
+result	sourcefiles/message.cpp	/^string Message::result() const$/;"	f	class:Message
+row	headfiles/tinyxml.h	/^	int row;	\/\/ 0 based.$/;"	m	struct:TiXmlCursor
+runTask	sourcefiles/myThreadPool.cpp	/^void MyThreadPool::runTask()$/;"	f	class:MyThreadPool
+running	headfiles/myThreadPool.h	/^	bool running=true;$/;"	m	class:MyThreadPool
+sendDeny	sourcefiles/fileServer.cpp	/^void fileServer::sendDeny()$/;"	f	class:fileServer
+sendFriendList	sourcefiles/friendServer.cpp	/^void friendsServer::sendFriendList()$/;"	f	class:friendsServer
+sendIPAddress	sourcefiles/fileServer.cpp	/^void fileServer::sendIPAddress()$/;"	f	class:fileServer
+sendLogInFail	sourcefiles/logInServer.cpp	/^void logInServer::sendLogInFail()$/;"	f	class:logInServer
+sendLogInSuccess	sourcefiles/logInServer.cpp	/^void logInServer::sendLogInSuccess()$/;"	f	class:logInServer
+sendMessageToFriend	sourcefiles/chatServer.cpp	/^bool chatServer::sendMessageToFriend()$/;"	f	class:chatServer
+sendRegisterFail	sourcefiles/registerServer.cpp	/^void registerServer::sendRegisterFail()$/;"	f	class:registerServer
+sendRegisterSuccess	sourcefiles/registerServer.cpp	/^void registerServer::sendRegisterSuccess()$/;"	f	class:registerServer
+sendResult	sourcefiles/chatServer.cpp	/^void chatServer::sendResult(const string resultKind, const string result)$/;"	f	class:chatServer
+sendResult	sourcefiles/friendServer.cpp	/^void friendsServer::sendResult(const string resultKind, const string result)$/;"	f	class:friendsServer
+sendResult	sourcefiles/logInServer.cpp	/^void logInServer::sendResult(const string result)$/;"	f	class:logInServer
+sendResult	sourcefiles/registerServer.cpp	/^void registerServer::sendResult(const string result)$/;"	f	class:registerServer
+sentinel	headfiles/tinyxml.h	/^	TiXmlAttribute sentinel;$/;"	m	class:TiXmlAttributeSet
+server	headfiles/server.h	/^	server(){}$/;"	f	class:server
+server	headfiles/server.h	/^class server$/;"	c
+serverHandler	headfiles/serverHandler.h	/^class serverHandler$/;"	c
+serverHandler	sourcefiles/serverHandler.cpp	/^serverHandler::serverHandler(int threadNum):ThreadNum(threadNum)$/;"	f	class:serverHandler
+setAttribute	sourcefiles/xmlHandler.cpp	/^xmlHandler xmlHandler::setAttribute(const string & name, const string & value)$/;"	f	class:xmlHandler
+setBody	sourcefiles/message.cpp	/^Message &Message::setBody(const string body)$/;"	f	class:Message
+setFriendRemark	sourcefiles/accountDatabase.cpp	/^bool accountDatabase::setFriendRemark(string username, string friendname, string remark)$/;"	f	class:accountDatabase
+setFrom	sourcefiles/message.cpp	/^Message &Message::setFrom(string from)$/;"	f	class:Message
+setFrom	sourcefiles/xmlHandler.cpp	/^xmlHandler xmlHandler::setFrom(const string &from)$/;"	f	class:xmlHandler
+setId	sourcefiles/message.cpp	/^Message &Message::setId(const string id)$/;"	f	class:Message
+setId	sourcefiles/xmlHandler.cpp	/^xmlHandler xmlHandler::setId(const string &id)$/;"	f	class:xmlHandler
+setKind	sourcefiles/xmlHandler.cpp	/^xmlHandler & xmlHandler::setKind(const string & kind)$/;"	f	class:xmlHandler
+setListenPort	server/MyEpollPort.cpp	/^void myEpollServer::setListenPort(int port)$/;"	f	class:myEpollServer
+setListenPort	sourcefiles/MyEpollPort.cpp	/^void myEpollServer::setListenPort(int port)$/;"	f	class:myEpollServer
+setOnline	sourcefiles/logInServer.cpp	/^void logInServer::setOnline()$/;"	f	class:logInServer
+setPassword	sourcefiles/message.cpp	/^Message &Message::setPassword(const string password)$/;"	f	class:Message
+setResult	sourcefiles/message.cpp	/^Message &Message::setResult(const string result)$/;"	f	class:Message
+setStatus	sourcefiles/accountDatabase.cpp	/^bool accountDatabase::setStatus(string username, string friendname, bool status)$/;"	f	class:accountDatabase
+setTo	sourcefiles/message.cpp	/^Message &Message::setTo(string to)$/;"	f	class:Message
+setTo	sourcefiles/xmlHandler.cpp	/^xmlHandler xmlHandler::setTo(const string &to)$/;"	f	class:xmlHandler
+setType	sourcefiles/message.cpp	/^Message &Message::setType(MessageType type)$/;"	f	class:Message
+setType	sourcefiles/xmlHandler.cpp	/^xmlHandler xmlHandler::setType(const string &type)$/;"	f	class:xmlHandler
+setUserName	sourcefiles/message.cpp	/^Message &Message::setUserName(const string userName)$/;"	f	class:Message
+set_size	headfiles/tinystr.h	/^	void set_size(size_type sz) { rep_->str[ rep_->size = sz ] = '\\0'; }$/;"	f	class:TiXmlString
+setnonblocking	server/MyEpollPort.cpp	/^int myEpollServer::setnonblocking(int sockFd)$/;"	f	class:myEpollServer
+setnonblocking	sourcefiles/MyEpollPort.cpp	/^int myEpollServer::setnonblocking(int sockFd)$/;"	f	class:myEpollServer
+showAccount	sourcefiles/accountDatabase.cpp	/^unordered_map<string, string> accountDatabase::showAccount()$/;"	f	class:accountDatabase
+simpleTextPrint	headfiles/tinyxml.h	/^	bool simpleTextPrint;$/;"	m	class:TiXmlPrinter
+size	headfiles/tinystr.h	/^		size_type size, capacity;$/;"	m	struct:TiXmlString::Rep
+size	headfiles/tinystr.h	/^	size_type size () const { return rep_->size; }$/;"	f	class:TiXmlString
+size_type	headfiles/tinystr.h	/^  	typedef size_t size_type;$/;"	t	class:TiXmlString
+stamp	sourcefiles/tinyxmlparser.cpp	/^	const char*		stamp;$/;"	m	class:TiXmlParsingData	file:
+standalone	headfiles/tinyxml.h	/^	TIXML_STRING standalone;$/;"	m	class:TiXmlDeclaration
+start	headfiles/tinystr.h	/^	char* start() const { return rep_->str; }$/;"	f	class:TiXmlString
+start	server/MyEpollPort.cpp	/^void myEpollServer::start()$/;"	f	class:myEpollServer
+start	sourcefiles/MyEpollPort.cpp	/^void myEpollServer::start()$/;"	f	class:myEpollServer
+stop	sourcefiles/MyEpollPort.cpp	/^void myEpollServer::stop()$/;"	f	class:myEpollServer
+stop	sourcefiles/myThreadPool.cpp	/^void MyThreadPool::stop()$/;"	f	class:MyThreadPool
+str	headfiles/tinystr.h	/^		char str[1];$/;"	m	struct:TiXmlString::Rep
+str	headfiles/tinyxml.h	/^		const char*     str;$/;"	m	struct:TiXmlBase::Entity
+strLength	headfiles/tinyxml.h	/^		unsigned int	strLength;$/;"	m	struct:TiXmlBase::Entity
+swap	headfiles/tinystr.h	/^	void swap (TiXmlString& other)$/;"	f	class:TiXmlString
+tabsize	headfiles/tinyxml.h	/^	int tabsize;$/;"	m	class:TiXmlDocument
+tabsize	sourcefiles/tinyxmlparser.cpp	/^	int				tabsize;$/;"	m	class:TiXmlParsingData	file:
+takeTask	sourcefiles/myThreadPool.cpp	/^server * MyThreadPool::takeTask()$/;"	f	class:MyThreadPool
+to	sourcefiles/message.cpp	/^string Message::to() const$/;"	f	class:Message
+to	sourcefiles/xmlHandler.cpp	/^string xmlHandler::to() const$/;"	f	class:xmlHandler
+toString	sourcefiles/xmlHandler.cpp	/^string xmlHandler::toString(int indent) const$/;"	f	class:xmlHandler
+type	headfiles/tinyxml.h	/^	NodeType		type;$/;"	m	class:TiXmlNode
+type	sourcefiles/message.cpp	/^Message::MessageType Message::type() const$/;"	f	class:Message
+type	sourcefiles/xmlHandler.cpp	/^string xmlHandler::type() const$/;"	f	class:xmlHandler
+useMicrosoftBOM	headfiles/tinyxml.h	/^	bool useMicrosoftBOM;		\/\/ the UTF-8 BOM were found when read. Note this, and try to write.$/;"	m	class:TiXmlDocument
+userData	headfiles/tinyxml.h	/^	void*			userData;$/;"	m	class:TiXmlBase
+userName	sourcefiles/message.cpp	/^string Message::userName() const$/;"	f	class:Message
+utf8ByteTable	headfiles/tinyxml.h	/^	static const int utf8ByteTable[256];$/;"	m	class:TiXmlBase
+utf8ByteTable	sourcefiles/tinyxmlparser.cpp	/^const int TiXmlBase::utf8ByteTable[256] = $/;"	m	class:TiXmlBase	file:
+value	headfiles/tinyxml.h	/^	TIXML_STRING	value;$/;"	m	class:TiXmlNode
+value	headfiles/tinyxml.h	/^	TIXML_STRING value;$/;"	m	class:TiXmlAttribute
+version	headfiles/tinyxml.h	/^	TIXML_STRING version;$/;"	m	class:TiXmlDeclaration
+volatile	server/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	11;"	d	file:
+volatile	sourcefiles/CMakeFiles/3.8.0-rc1/CompilerIdC/CMakeCCompilerId.c	11;"	d	file:
+xmlHandler	headfiles/xmlHandler.h	/^	xmlHandler(const TiXmlDocument doc) :FDoc(doc) {}$/;"	f	class:xmlHandler
+xmlHandler	headfiles/xmlHandler.h	/^class xmlHandler$/;"	c
+xmlHandler	sourcefiles/xmlHandler.cpp	/^xmlHandler::xmlHandler(const TiXmlElement & element)$/;"	f	class:xmlHandler
+xmlHandler	sourcefiles/xmlHandler.cpp	/^xmlHandler::xmlHandler(const string & kind)$/;"	f	class:xmlHandler
+~MyThreadPool	sourcefiles/myThreadPool.cpp	/^MyThreadPool::~MyThreadPool()$/;"	f	class:MyThreadPool
+~TiXmlAttributeSet	sourcefiles/tinyxml.cpp	/^TiXmlAttributeSet::~TiXmlAttributeSet()$/;"	f	class:TiXmlAttributeSet
+~TiXmlBase	headfiles/tinyxml.h	/^	virtual ~TiXmlBase()			{}$/;"	f	class:TiXmlBase
+~TiXmlComment	headfiles/tinyxml.h	/^	virtual ~TiXmlComment()	{}$/;"	f	class:TiXmlComment
+~TiXmlDeclaration	headfiles/tinyxml.h	/^	virtual ~TiXmlDeclaration()	{}$/;"	f	class:TiXmlDeclaration
+~TiXmlDocument	headfiles/tinyxml.h	/^	virtual ~TiXmlDocument() {}$/;"	f	class:TiXmlDocument
+~TiXmlElement	sourcefiles/tinyxml.cpp	/^TiXmlElement::~TiXmlElement()$/;"	f	class:TiXmlElement
+~TiXmlNode	sourcefiles/tinyxml.cpp	/^TiXmlNode::~TiXmlNode()$/;"	f	class:TiXmlNode
+~TiXmlString	headfiles/tinystr.h	/^	~TiXmlString ()$/;"	f	class:TiXmlString
+~TiXmlText	headfiles/tinyxml.h	/^	virtual ~TiXmlText() {}$/;"	f	class:TiXmlText
+~TiXmlUnknown	headfiles/tinyxml.h	/^	virtual ~TiXmlUnknown() {}$/;"	f	class:TiXmlUnknown
+~TiXmlVisitor	headfiles/tinyxml.h	/^	virtual ~TiXmlVisitor() {}$/;"	f	class:TiXmlVisitor
+~accountDatabase	sourcefiles/accountDatabase.cpp	/^accountDatabase::~accountDatabase()$/;"	f	class:accountDatabase
+~chatServer	sourcefiles/chatServer.cpp	/^chatServer::~chatServer()$/;"	f	class:chatServer
+~fileServer	sourcefiles/fileServer.cpp	/^fileServer::~fileServer()$/;"	f	class:fileServer
+~friendsServer	sourcefiles/friendServer.cpp	/^friendsServer::~friendsServer()$/;"	f	class:friendsServer
+~logInServer	sourcefiles/logInServer.cpp	/^logInServer::~logInServer()$/;"	f	class:logInServer
+~myEpollServer	server/MyEpollPort.h	/^	~myEpollServer(){};$/;"	f	class:myEpollServer
+~myEpollServer	sourcefiles/MyEpollPort.cpp	/^myEpollServer::~myEpollServer()$/;"	f	class:myEpollServer
+~registerServer	sourcefiles/registerServer.cpp	/^registerServer::~registerServer()$/;"	f	class:registerServer
+~server	headfiles/server.h	/^	~server(){}$/;"	f	class:server
+~serverHandler	sourcefiles/serverHandler.cpp	/^serverHandler::~serverHandler()$/;"	f	class:serverHandler
