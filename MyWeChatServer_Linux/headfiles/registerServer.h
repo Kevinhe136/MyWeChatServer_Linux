@@ -15,7 +15,7 @@ class registerServer:public server
 	//typedef string string;
 	//typedef TiXmlElement TiXmlElement;
 public:
-	registerServer(Message registerInfo, SOCKET serverSocket, unordered_map<string, string> *accountData,accountDatabase account);
+	registerServer(Message registerInfo, SOCKET serverSocket, unordered_map<string, string> *accountData);
 	~registerServer();
 
 public:
@@ -35,7 +35,6 @@ private:
 	string UserName;
 	string PassWord;
 	unordered_map<string, string> *AccountData;
-	accountDatabase Account;
 	mutex MyMutex;
 	//    QDataStream accountStream;
 	//    QFile accountFile;

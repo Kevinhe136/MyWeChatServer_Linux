@@ -1,7 +1,7 @@
 #include "registerServer.h"
 
-registerServer::registerServer(Message registerInfo, SOCKET serverSocket, unordered_map<string, string>* accountData, accountDatabase account):
-							   RegisterInfo(registerInfo),ServerSocket(serverSocket),AccountData(accountData),Account(account)
+registerServer::registerServer(Message registerInfo, SOCKET serverSocket, unordered_map<string, string>* accountData):
+							   RegisterInfo(registerInfo),ServerSocket(serverSocket),AccountData(accountData)
 {
 }
 
@@ -56,13 +56,13 @@ bool registerServer::addNewAccount()
 {
 	AccountData->insert({ UserName,PassWord });
 
-	if (!Account.initDatabase())
+/*	if (!Account.initDatabase())
 	{
 		cout << "数据库初始化失败！！" << endl;
 		return false;
 	}
-	//account.getAccount();
-	if (!Account.addAccount(UserName, PassWord))
+*/	//account.getAccount();
+	if (accountDatabase::instance()->addAccount(UserName, PassWord))
 	{
 		cout << "添加新用户" << UserName << "进数据库失败！！" << endl;
 		return false;

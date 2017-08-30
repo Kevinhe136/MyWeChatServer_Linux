@@ -20,12 +20,13 @@ using std::endl;
 
 class accountDatabase
 {
-public:
+private:
 	accountDatabase();
-	~accountDatabase();
-
+public:
 	bool initDatabase();
 	bool getAccount();
+public:
+	static accountDatabase* instance();
 	unordered_map<string, string> showAccount();
 	bool addAccount(string username, string password);
 	bool deleteAccount(string username, string password);
@@ -34,11 +35,15 @@ public:
 	unordered_map<string,friendData> getFriends(string username);
 	bool setFriendRemark(string username, string friendname, string remark);
 	bool setStatus(string username, string friendname, bool status);
-
-private:
-	unordered_map<string, string> Account;
-	MYSQL AccountData;
 	
+	MYSQL& accountData()
+	{
+		return AccountData;
+	}
+private:
+	static unordered_map<string, string> Account;
+	static MYSQL AccountData;
+	static accountDatabase* m_instance;
 };
 
 #endif // !_ACCOUNT_DATABASE_H_ 

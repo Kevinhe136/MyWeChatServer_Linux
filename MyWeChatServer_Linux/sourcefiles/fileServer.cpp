@@ -1,7 +1,7 @@
 #include"fileServer.h"
 
 
-fileServer::fileServer(Message messageInfo,SOCKET server, unordered_map<string,string> *accountData, accountDatabase account, unordered_map<string,SOCKET> *clientList):MessageInfo(messageInfo),ServerSocket(server),AccountData(accountData),Account(account),ClientList(clientList)
+fileServer::fileServer(Message messageInfo,SOCKET server, unordered_map<string,string> *accountData, unordered_map<string,SOCKET> *clientList):MessageInfo(messageInfo),ServerSocket(server),AccountData(accountData),ClientList(clientList)
 {
 }
 

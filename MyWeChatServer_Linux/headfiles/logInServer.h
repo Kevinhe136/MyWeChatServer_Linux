@@ -6,14 +6,18 @@
 #include"xmlHandler.h"
 #include"contacts.h"
 #include<unordered_map>
+#include<algorithm>
 //#include<WinSock2.h>
 #include"server.h"
+#include "user.h"
+#include "global.h"
+using namespace std;
+
 
 class logInServer:public server
 {
 public:
-	logInServer(Message logInInfo, SOCKET server, unordered_map<string, string> *accountData, 
-		accountDatabase account, unordered_map<string, SOCKET> *clientList);
+	logInServer(Message logInInfo, SOCKET server, unordered_map<string, string> *accountData);
 	~logInServer();
 
 public:
@@ -24,6 +28,9 @@ public:
 	bool isUserNameRegistered();//判断是否这个用户名已用
 	void sendResult(const string result);//发送申请结果给客户端
 	void setOnline();
+	bool sendNotice();
+	
+	void sendOfflineMsg() const;
 
 	string getUserName();
 	TiXmlElement addChild(const string &tagName, const string &text, TiXmlElement &Aparent);
@@ -37,9 +44,8 @@ private:
 	string UserName;
 	string PassWord;
 	unordered_map<string, string> *AccountData;
-	accountDatabase Account;
 	mutex MyMutex;
-	unordered_map<string, SOCKET> *ClientList;
+	user *newUser;
 };
 
 #endif // !_LOGINSERVER_H_ 

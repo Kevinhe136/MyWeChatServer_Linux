@@ -16,7 +16,7 @@ class friendsServer:public server
 	//typedef string string;
 	//typedef TiXmlElement TiXmlElement;
 public:
-	friendsServer(Message friendInfo, SOCKET server, unordered_map<string, string> *accountData, accountDatabase account);
+	friendsServer(Message friendInfo, SOCKET server, unordered_map<string, string> *accountData);
 	~friendsServer();
 
 	virtual void responseToClient();
@@ -36,7 +36,6 @@ private:
 	unordered_map<string, string> *AccountData;
 	SOCKET ServerSocket;
 	xmlHandler *Stanza;
-	accountDatabase Account;
 	mutex MyMutex;
 };
 

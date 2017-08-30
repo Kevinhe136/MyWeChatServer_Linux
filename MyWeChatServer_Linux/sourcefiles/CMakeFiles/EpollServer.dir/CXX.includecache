@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/MyEpollPort.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/MyEpollPort.h
 sys/socket.h
 -
 sys/epoll.h
@@ -16,11 +16,11 @@ iostream
 vector
 -
 tinyxml.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/tinyxml.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/tinyxml.h
 message.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/message.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/message.h
 serverHandler.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/serverHandler.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/serverHandler.h
 string
 -
 unordered_map
@@ -42,7 +42,7 @@ fcntl.h
 unistd.h
 -
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/accountDatabase.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/accountDatabase.h
 thread
 -
 mutex
@@ -56,15 +56,19 @@ iostream
 string.h
 -
 mysql.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/mysql.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/mysql.h
 contacts.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/contacts.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/contacts.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/chatServer.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/chatServer.h
 server.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/server.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/server.h
+user.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/user.h
+global.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/global.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/contacts.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/contacts.h
 string
 -
 unordered_map
@@ -74,15 +78,15 @@ iostream
 map
 -
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/fileServer.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/fileServer.h
 xmlHandler.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/xmlHandler.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/xmlHandler.h
 contacts.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/contacts.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/contacts.h
 fstream
 -
 server.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/server.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/server.h
 sys/types.h
 -
 netinet/in.h
@@ -98,35 +102,53 @@ string
 string.h
 -
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/friendServer.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/friendServer.h
 xmlHandler.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/xmlHandler.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/xmlHandler.h
 contacts.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/contacts.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/contacts.h
 fstream
 -
 server.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/server.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/server.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/logInServer.h
-message.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/message.h
-xmlHandler.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/xmlHandler.h
-contacts.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/contacts.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/global.h
 unordered_map
 -
-server.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/server.h
+iostream
+-
+user.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/user.h
+time.h
+-
+unordered_set
+-
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/message.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/logInServer.h
+message.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/message.h
 xmlHandler.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/xmlHandler.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/xmlHandler.h
+contacts.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/contacts.h
+unordered_map
+-
+algorithm
+-
+server.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/server.h
+user.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/user.h
+global.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/global.h
+
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/message.h
+xmlHandler.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/xmlHandler.h
 list
 -
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/myThreadPool.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/myThreadPool.h
 thread
 -
 mutex
@@ -142,61 +164,65 @@ iostream
 queue
 -
 server.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/server.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/server.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/registerServer.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/registerServer.h
 message.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/message.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/message.h
 xmlHandler.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/xmlHandler.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/xmlHandler.h
 contacts.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/contacts.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/contacts.h
 unordered_map
 -
 fstream
 -
 server.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/server.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/server.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/server.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/server.h
 list
 -
 mutex
 -
 message.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/message.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/message.h
 accountDatabase.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/accountDatabase.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/accountDatabase.h
 sys/types.h
 -
 sys/socket.h
 -
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/serverHandler.h
-myThreadPool.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/myThreadPool.h
-message.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/message.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/serverHandler.h
 iostream
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/iostream
+-
+myThreadPool.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/myThreadPool.h
+message.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/message.h
 logInServer.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/logInServer.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/logInServer.h
 registerServer.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/registerServer.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/registerServer.h
 friendServer.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/friendServer.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/friendServer.h
 chatServer.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/chatServer.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/chatServer.h
 fileServer.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/fileServer.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/fileServer.h
+user.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/user.h
+global.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/global.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/tinystr.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/tinystr.h
 assert.h
 -
 string.h
 -
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/tinyxml.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/tinyxml.h
 ctype.h
 -
 stdio.h
@@ -214,75 +240,105 @@ iostream
 sstream
 -
 tinystr.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/tinystr.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/tinystr.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/xmlHandler.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/user.h
+sys/types.h
+-
+sys/socket.h
+-
+string
+-
+unordered_set
+-
+unordered_map
+-
+map
+-
+vector
+-
+iostream
+-
+message.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/message.h
 tinyxml.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/headfiles/tinyxml.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/tinyxml.h
+contacts.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/contacts.h
+accountDatabase.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/accountDatabase.h
+
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/xmlHandler.h
+tinyxml.h
+/home/kevin/c++/MyWeChatServer_Linux/headfiles/tinyxml.h
 string
 -
 sstream
 -
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/MyEpollPort.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/MyEpollPort.cpp
 MyEpollPort.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/MyEpollPort.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/MyEpollPort.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/accountDatabase.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/accountDatabase.cpp
 accountDatabase.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/accountDatabase.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/accountDatabase.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/chatServer.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/chatServer.cpp
 chatServer.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/chatServer.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/chatServer.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/contacts.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/contacts.cpp
 contacts.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/contacts.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/contacts.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/fileServer.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/fileServer.cpp
 fileServer.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/fileServer.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/fileServer.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/friendServer.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/friendServer.cpp
 friendServer.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/friendServer.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/friendServer.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/logInServer.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/global.cpp
+global.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/global.h
+
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/logInServer.cpp
 logInServer.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/logInServer.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/logInServer.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/main.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/main.cpp
 message.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/message.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/message.h
 iostream
 -
 MyEpollPort.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/MyEpollPort.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/MyEpollPort.h
 accountDatabase.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/accountDatabase.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/accountDatabase.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/message.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/message.cpp
 message.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/message.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/message.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/myThreadPool.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/myThreadPool.cpp
 myThreadPool.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/myThreadPool.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/myThreadPool.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/registerServer.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/registerServer.cpp
 registerServer.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/registerServer.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/registerServer.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/serverHandler.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/serverHandler.cpp
 serverHandler.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/serverHandler.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/serverHandler.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/tinystr.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/tinystr.cpp
 tinystr.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/tinystr.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/tinystr.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/tinyxml.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/tinyxml.cpp
 ctype.h
 -
 sstream
@@ -290,25 +346,31 @@ sstream
 iostream
 -
 tinyxml.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/tinyxml.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/tinyxml.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/tinyxmlerror.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/tinyxmlerror.cpp
 tinyxml.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/tinyxml.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/tinyxml.h
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/tinyxmlparser.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/tinyxmlparser.cpp
 ctype.h
 -
 stddef.h
 -
 tinyxml.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/tinyxml.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/tinyxml.h
 windows.h
 -
 
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/xmlHandler.cpp
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/user.cpp
+user.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/user.h
+global.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/global.h
+
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/xmlHandler.cpp
 xmlHandler.h
-/home/kevin/MyProgram/MyWeChatServer_Linux/sourcefiles/xmlHandler.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/xmlHandler.h
 
 /usr/include/mysql/binary_log_types.h
 

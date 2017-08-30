@@ -1,7 +1,7 @@
 #include "chatServer.h"
 
-chatServer::chatServer(Message messageInfo, SOCKET server, unordered_map<string, string>* accountData, accountDatabase account, unordered_map<string, SOCKET> *clientList):
-	MessageInfo(messageInfo), ServerSocket(server), AccountData(accountData), Account(account),ClientList(clientList)
+chatServer::chatServer(Message messageInfo, SOCKET server):
+	MessageInfo(messageInfo), ServerSocket(server)
 {
 }
 
@@ -14,32 +14,41 @@ void chatServer::responseToClient()
 {
 	FromName = MessageInfo.from();
 	ToName = MessageInfo.to();
-	sendMessageToFriend();
-}
 
-bool chatServer::sendMessageToFriend()
-{
-	MyMutex.lock();
-
-	auto it = ClientList->find(ToName);
-	if (it == ClientList->end())
+	if(!global::instance()->hasUser(FromName))
+		return;
+	user* from = global::instance()->getOnlineUser(FromName);
+	if(!from->isFriend(ToName))
 	{
-		MyMutex.unlock();
-
-		cout << "好友" << "ToName" << "不在线" << endl;
-		string result = ToName + " is not onLine!!";
-		sendResult("chatResult", result);
-		return false;
+		return;
 	}
 	else
 	{
-		SOCKET ClientSocket = it->second;
-		MyMutex.unlock();
-
-		string msgToSend = getMsgToSend();		
-		send(ClientSocket, msgToSend.c_str(), msgToSend.size(), 0);
-		return true;
+		user* to=global::instance()->getOnlineUser(ToName);
+		string msgToSend= getMsgToSend();
+		string sendTime=getTime();
+		from->addChatRecord(ToName,msgToSend,sendTime,1);
+		to->addChatRecord(FromName,msgToSend,sendTime,0);
+		if(from->isFriendOnline(ToName))
+		{
+			sendMessageToFriend(msgToSend);
+		}
+		else
+		{
+			global::instance()->addOfflineMsg(FromName,ToName,msgToSend);
+		}
 	}
+}
+
+bool chatServer::sendMessageToFriend(const string& msgToSend)
+{
+	MyMutex.lock();
+
+	SOCKET ClientSocket = global::instance()->userSocket(ToName);
+	MyMutex.unlock();
+
+	send(ClientSocket, msgToSend.c_str(), msgToSend.size(), 0);
+	return true;
 }
 
 void chatServer::sendResult(const string resultKind, const string result)

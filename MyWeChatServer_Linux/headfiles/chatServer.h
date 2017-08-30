@@ -1,15 +1,16 @@
 #pragma once
 #include"server.h"
-
+#include"user.h"
+#include"global.h"
 class chatServer :public server
 {
 public:
-	chatServer(Message messageInfo, SOCKET server, unordered_map<string, string> *accountData, accountDatabase account, unordered_map<string, SOCKET> *clientList);
+	chatServer(Message messageInfo, SOCKET server);
 	~chatServer();
 
 	virtual void responseToClient();
 	//SOCKET findFriendClient(string friendName);
-	bool sendMessageToFriend();
+	bool sendMessageToFriend(const string& msgToSend);
 	void sendResult(const string resultKind, const string result);
 	string getMsgToSend();
 
@@ -21,10 +22,7 @@ private:
 	string FromName;
 	string ToName;
 	//unordered_map<string, friendData> FriendsList;
-	unordered_map<string, string> *AccountData;
 	SOCKET ServerSocket;
 	xmlHandler *Stanza;
-	accountDatabase Account;
 	mutex MyMutex;
-	unordered_map<string, SOCKET> *ClientList;
 };

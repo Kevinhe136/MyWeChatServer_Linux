@@ -1,7 +1,7 @@
 #include "friendServer.h"
 
-friendsServer::friendsServer(Message friendInfo, SOCKET server, unordered_map<string, string>* accountData, accountDatabase account):
-	FriendInfo(friendInfo),ServerSocket(server),AccountData(accountData),Account(account)
+friendsServer::friendsServer(Message friendInfo, SOCKET server, unordered_map<string, string>* accountData):
+	FriendInfo(friendInfo),ServerSocket(server),AccountData(accountData)
 {
 }
 
@@ -61,14 +61,14 @@ void friendsServer::responseToClient()
 
 bool friendsServer::getFriendsList()
 {
-	if (!Account.initDatabase())
+/*	if (!Account.initDatabase())
 	{
 		cout << "数据库初始化失败！！" << endl;
 		return false;
 	}
-	//account.getAccount();
+*/	//account.getAccount();
 
-	FriendsList = Account.getFriends(UserName);
+	FriendsList = accountDatabase::instance()->getFriends(UserName);
 	return true;
 	/*FriendsList = AccountData->find(UserName)->second.FriendsList;*/
 
@@ -125,7 +125,7 @@ bool friendsServer::addNewFriend(const string &friendName)
 
 	FriendsList.insert({ friendName, friendData(friendName, friendName, true) });
 
-	if (!Account.addFriend(UserName, friendName))
+	if (accountDatabase::instance()->addFriend(UserName, friendName))
 	{
 		cout << "添加好友失败！！" << endl;
 		return false;
@@ -146,7 +146,7 @@ bool friendsServer::deleteFriend(const string &friendName)
 		return true;
 	}
 
-	if (!Account.deleteFriend(UserName, friendName))
+	if (accountDatabase::instance()->deleteFriend(UserName, friendName))
 	{
 		cout << "删除联系人" << friendName << "失败" << endl;
 		return false;

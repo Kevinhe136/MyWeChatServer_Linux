@@ -51,17 +51,17 @@ bool serverHandler::getUserData()
 {
 	AccountData = new unordered_map<string, string>;
 	
-	if (!account.initDatabase())
+	if (!accountDatabase::instance()->initDatabase())
 	{
-		cout << "数据库初始化失败！！" << endl;
+		cout << "init database failed！！" << endl;
 		return false;
 	}
-	if (!account.getAccount())
+	if (!accountDatabase::instance()->getAccount())
 	{
 		cout << "获取账号资源失败！！" << endl;
 		return false;
 	}
-	*AccountData = account.showAccount();
+	*AccountData = accountDatabase::instance()->showAccount();
 	return true;
 
 	/*ifstream accountFile("E:/file/Qt/MyWeChat_Server/MyWeChat_Server/Account.txt");
@@ -95,35 +95,35 @@ void serverHandler::changeThreadNumTo(int num)
 
 bool serverHandler::handleRegister(const Message & msg, SOCKET serverSocket)
 {
-	registerServer *server = new registerServer(msg, serverSocket, AccountData,account);
+	registerServer *server = new registerServer(msg, serverSocket, AccountData);
 	ServerThreadPool->addTask(server);
 	return true;
 }
 
-bool serverHandler::handleLogIn(const Message & msg, SOCKET serverSocket, unordered_map<string, SOCKET> *clientList)
+bool serverHandler::handleLogIn(const Message & msg, SOCKET serverSocket)
 {
-	logInServer *server = new logInServer(msg, serverSocket, AccountData, account, clientList);
+	logInServer *server = new logInServer(msg, serverSocket, AccountData);
 	ServerThreadPool->addTask(server);
 	return true;
 }
 
 bool serverHandler::handleFriendList(const Message & msg, SOCKET serverSocket)
 {
-	friendsServer *server = new friendsServer(msg, serverSocket, AccountData, account);
+	friendsServer *server = new friendsServer(msg, serverSocket, AccountData);
 	ServerThreadPool->addTask(server);
 	return true;
 }
 
-bool serverHandler::handleChat(const Message & msg, SOCKET serverSocket, unordered_map<string, SOCKET>* clientList)
+bool serverHandler::handleChat(const Message & msg, SOCKET serverSocket)
 {
-	chatServer *server = new chatServer(msg, serverSocket, AccountData, account, clientList);
+	chatServer *server = new chatServer(msg, serverSocket);
 	ServerThreadPool->addTask(server);
 	return true;
 }
 
 bool serverHandler::handleFile(const Message &msg,SOCKET serverSocket, unordered_map<string,SOCKET> *clientList)
 {
-	fileServer *server=new fileServer(msg, serverSocket, AccountData,account,clientList);
+	fileServer *server=new fileServer(msg, serverSocket, AccountData,clientList);
 	ServerThreadPool->addTask(server);
 	return true;
 }

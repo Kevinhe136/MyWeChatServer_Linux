@@ -1,11 +1,24 @@
 #include "accountDatabase.h"
 
+accountDatabase* accountDatabase::m_instance=nullptr;
+unordered_map<string,string> accountDatabase::Account;
+MYSQL accountDatabase::AccountData;
+
 accountDatabase::accountDatabase()
 {
 }
 
-accountDatabase::~accountDatabase()
+accountDatabase* accountDatabase::instance()
 {
+	if(m_instance==nullptr)
+	{
+		m_instance=new accountDatabase();
+	//	m_instance->initDatabase();
+	//	m_instance->getAccount();
+		return m_instance;
+	}
+	else
+		return m_instance;
 }
 
 bool accountDatabase::initDatabase()

@@ -190,28 +190,28 @@ void myEpollServer::doRecv(string msgRecved,int sockFd)
 
 	string test=strPrinter.CStr();
 
-	Message message(xmlHandler(recvDoc));
+	Message *message=new Message(xmlHandler(recvDoc));
 	string msgKind=message->Stanza->kind();
 
 	if(msgKind=="register")
 	{
-		ServerHandler->handleRegister(message,sockFd);
+		ServerHandler->handleRegister(*message,sockFd);
 	}
 	else if(msgKind=="login")
 	{
-		ServerHandler->handleLogIn(message,sockFd,ClientList);
+		ServerHandler->handleLogIn(*message,sockFd);
 	}
 	else if(msgKind=="friendList"||msgKind=="addFriend"||msgKind=="deleteFriend")
 	{
-		ServerHandler->handleFriendList(message,sockFd);
+		ServerHandler->handleFriendList(*message,sockFd);
 	}
 	else if(msgKind=="message")
 	{
-		ServerHandler->handleChat(message,sockFd,ClientList);
+		ServerHandler->handleChat(*message,sockFd);
 	}
 	else if(msgKind=="file")
 	{
-		ServerHandler->handleFile(message,sockFd,ClientList);
+		ServerHandler->handleFile(*message,sockFd,ClientList);
 	}
 }
 

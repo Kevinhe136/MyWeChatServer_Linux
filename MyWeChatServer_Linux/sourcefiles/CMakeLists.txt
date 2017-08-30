@@ -6,7 +6,7 @@ add_compile_options(-std=c++11)
 
 aux_source_directory(. DIR_SRCS)
 
-include_directories("~/MyProgram/MyWeChatServer_Linux/headfiles")
+include_directories("~/c++/MyWeChatServer_Linux/headfiles")
 include_directories("/usr/include/mysql")
 #link_directories(~/MyProgram/MyWeChatServer_Linux/sourcefiles)
 link_directories(/usr/lib/mysql/plugin)

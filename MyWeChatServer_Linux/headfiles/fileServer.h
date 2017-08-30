@@ -19,7 +19,7 @@ using namespace std;
 class fileServer:public server
 {
 public:
-	fileServer(Message messageInfo, SOCKET serverSocket,unordered_map<string,string> *accountData, accountDatabase account, unordered_map<string,SOCKET> *clientList);
+	fileServer(Message messageInfo, SOCKET serverSocket,unordered_map<string,string> *accountData,unordered_map<string,SOCKET> *clientList);
 	~fileServer();
 	void askForPermission();
 	void sendIPAddress();
@@ -37,7 +37,6 @@ private:
 	unordered_map<string,string> *AccountData;
 	SOCKET ServerSocket;
 	xmlHandler *Stanza;
-	accountDatabase Account;
 	mutex MyMutex;
 	unordered_map<string,SOCKET> *ClientList;
 };
