@@ -25,6 +25,7 @@ void logInServer::responseToClient()
 		global::instance()->addOnlineUser(UserName,newUser);
 		newUser->initFriendList();
 		newUser->noticeFriends(ONLINE);
+		user* he=newUser->getOnlineFriend("hewenkai");
 		MyMutex.unlock();
 		sendLogInSuccess();
 		sendOfflineMsg();
@@ -102,12 +103,22 @@ void logInServer::sendOfflineMsg() const
 
 	for(int i=0;i<size;++i)
 	{
-		send(ServerSocket,offlineMsgs[i].m_message.c_str(),offlineMsgs[i].m_message.size(),0);
+		xmlHandler *Stanza = new xmlHandler((string)"message");
+		Stanza->setFrom(offlineMsgs[i].m_friendName);
+		Stanza->setTo(UserName);
+
+		string msgBody = offlineMsgs[i].m_message;
+
+		addChild("body", msgBody, *Stanza->element());
+		string msgToSend = Stanza->toString();
+		delete Stanza;
+
+		send(ServerSocket,msgToSend.c_str(),msgToSend.size(),0);
 		newUser->addChatRecord(offlineMsgs[i]);
 	}
 }
 
-TiXmlElement logInServer::addChild(const string & tagName, const string & text, TiXmlElement & Aparent)
+TiXmlElement logInServer::addChild(const string & tagName, const string & text, TiXmlElement & Aparent) const
 {
 	TiXmlElement elem(tagName.c_str());
 	TiXmlText elemText(text.c_str());

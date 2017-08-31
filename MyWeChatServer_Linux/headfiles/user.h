@@ -22,7 +22,7 @@ using namespace std;
 
 #define MAX_STATUS 3
 
-#define MAX_RECORD_COUNT 100
+#define MAX_RECORD_COUNT 10
 /*
 enum STATUS 
 {
@@ -63,6 +63,8 @@ public:
 
 	bool isFriend(const string& friendName) const;
 	bool isFriendOnline(const string& friendName) const;
+	void addOnlineFriend(const string& friendName);
+	user* getOnlineFriend(const string& friendName);
 
 	SOCKET getSocket()
 	{
@@ -81,7 +83,7 @@ private:
 private:
 	string m_userName;
 	unordered_map<string,friendData> m_friendList;
-	unordered_set<string> m_onlineFriends;
+	unordered_map<string,user*> m_onlineFriends;
 	vector<chatRecord> m_chatRecord;
 	int m_recordCount;
 	int m_status;

@@ -24,7 +24,7 @@ using std::endl;
 
 using std::cout;
 
-typedef int SOCKET;
+#define SOCKET int
 
 class server
 {

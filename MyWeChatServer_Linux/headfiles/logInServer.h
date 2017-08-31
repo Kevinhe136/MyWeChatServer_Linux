@@ -33,7 +33,7 @@ public:
 	void sendOfflineMsg() const;
 
 	string getUserName();
-	TiXmlElement addChild(const string &tagName, const string &text, TiXmlElement &Aparent);
+	TiXmlElement addChild(const string &tagName, const string &text, TiXmlElement &Aparent) const;
 	TiXmlElement findChild(const TiXmlElement &Aparent, const string &tagName) const;
 
 

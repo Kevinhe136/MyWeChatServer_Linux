@@ -10,7 +10,6 @@
 #include<string.h>
 #include"mysql.h"
 #include"contacts.h"
-
 using std::thread;
 using std::string;
 using std::unordered_map;
@@ -41,8 +40,8 @@ public:
 		return AccountData;
 	}
 private:
-	static unordered_map<string, string> Account;
-	static MYSQL AccountData;
+	unordered_map<string, string> Account;
+	MYSQL AccountData;
 	static accountDatabase* m_instance;
 };
 

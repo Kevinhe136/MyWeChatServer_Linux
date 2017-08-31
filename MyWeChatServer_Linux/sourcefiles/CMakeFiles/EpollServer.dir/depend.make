@@ -35,6 +35,12 @@ CMakeFiles/EpollServer.dir/MyEpollPort.cpp.o: /usr/include/mysql/typelib.h
 
 CMakeFiles/EpollServer.dir/accountDatabase.cpp.o: /home/kevin/c++/MyWeChatServer_Linux/headfiles/accountDatabase.h
 CMakeFiles/EpollServer.dir/accountDatabase.cpp.o: /home/kevin/c++/MyWeChatServer_Linux/headfiles/contacts.h
+CMakeFiles/EpollServer.dir/accountDatabase.cpp.o: /home/kevin/c++/MyWeChatServer_Linux/headfiles/global.h
+CMakeFiles/EpollServer.dir/accountDatabase.cpp.o: /home/kevin/c++/MyWeChatServer_Linux/headfiles/message.h
+CMakeFiles/EpollServer.dir/accountDatabase.cpp.o: /home/kevin/c++/MyWeChatServer_Linux/headfiles/tinystr.h
+CMakeFiles/EpollServer.dir/accountDatabase.cpp.o: /home/kevin/c++/MyWeChatServer_Linux/headfiles/tinyxml.h
+CMakeFiles/EpollServer.dir/accountDatabase.cpp.o: /home/kevin/c++/MyWeChatServer_Linux/headfiles/user.h
+CMakeFiles/EpollServer.dir/accountDatabase.cpp.o: /home/kevin/c++/MyWeChatServer_Linux/headfiles/xmlHandler.h
 CMakeFiles/EpollServer.dir/accountDatabase.cpp.o: accountDatabase.cpp
 CMakeFiles/EpollServer.dir/accountDatabase.cpp.o: /usr/include/mysql/binary_log_types.h
 CMakeFiles/EpollServer.dir/accountDatabase.cpp.o: /usr/include/mysql/my_alloc.h

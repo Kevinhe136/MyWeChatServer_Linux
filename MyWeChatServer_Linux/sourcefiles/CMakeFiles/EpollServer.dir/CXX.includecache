@@ -283,6 +283,8 @@ MyEpollPort.h
 /home/kevin/c++/MyWeChatServer_Linux/sourcefiles/accountDatabase.cpp
 accountDatabase.h
 /home/kevin/c++/MyWeChatServer_Linux/sourcefiles/accountDatabase.h
+global.h
+/home/kevin/c++/MyWeChatServer_Linux/sourcefiles/global.h
 
 /home/kevin/c++/MyWeChatServer_Linux/sourcefiles/chatServer.cpp
 chatServer.h

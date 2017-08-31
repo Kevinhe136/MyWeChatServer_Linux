@@ -1,8 +1,7 @@
 #include "accountDatabase.h"
+#include "global.h"
 
 accountDatabase* accountDatabase::m_instance=nullptr;
-unordered_map<string,string> accountDatabase::Account;
-MYSQL accountDatabase::AccountData;
 
 accountDatabase::accountDatabase()
 {
@@ -53,12 +52,13 @@ bool accountDatabase::initDatabase()
 		return false;
 	}
 	//Êý¾Ý¿âµÇÂ¼
-	if (NULL != mysql_real_connect(&AccountData, "localhost", "root", "0921", "account_data", 3306, NULL, 0))
+	if (NULL != mysql_real_connect(&AccountData, "127.0.0.1", "root", "0921", "account_data", 0, NULL, 0))
 	{
 		cout << "Database login successfully£¡£¡" << endl;
 	}
 	else
 	{
+		mysql_error(&AccountData);
 		cout << "Database login failed£¡£¡" << endl;
 		return false;
 	}
@@ -83,6 +83,7 @@ bool accountDatabase::getAccount()
 		while (row)
 		{
 			Account.insert({ row[0],row[1] });
+			global::instance()->addUser(row[0]);
 			row = mysql_fetch_row(result);
 		}
 		cout << "account data read successfully!!" << endl;

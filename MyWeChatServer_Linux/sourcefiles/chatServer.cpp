@@ -26,16 +26,17 @@ void chatServer::responseToClient()
 	{
 		user* to=global::instance()->getOnlineUser(ToName);
 		string msgToSend= getMsgToSend();
+		string msgBody=MessageInfo.body();
 		string sendTime=getTime();
-		from->addChatRecord(ToName,msgToSend,sendTime,1);
-		to->addChatRecord(FromName,msgToSend,sendTime,0);
+		from->addChatRecord(ToName,msgBody,sendTime,1);
 		if(from->isFriendOnline(ToName))
 		{
+			to->addChatRecord(FromName,msgBody,sendTime,0);
 			sendMessageToFriend(msgToSend);
 		}
 		else
 		{
-			global::instance()->addOfflineMsg(FromName,ToName,msgToSend);
+			global::instance()->addOfflineMsg(FromName,ToName,msgBody);
 		}
 	}
 }
@@ -71,9 +72,10 @@ string chatServer::getMsgToSend()
 
 	addChild("body", msgBody, *Stanza->element());
 	string msgToSend = Stanza->toString();
-
+	delete Stanza;
 	return msgToSend;
 }
+
 
 TiXmlElement chatServer::addChild(const string & tagName, const string & text, TiXmlElement & Aparent)
 {
